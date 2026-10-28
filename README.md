@@ -19,6 +19,16 @@
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/rpg-audio
 - 듣기 샘플: [rpgaudio_preview.ogg](previews/rpgaudio_preview.ogg) (raw 링크: https://raw.githubusercontent.com/sigco3111/assets-audio/main/previews/rpgaudio_preview.ogg)
 
+### Impact Sounds
+- 파일: `kenney_impactsounds.zip` (OGG 130개: 금속·유리·판·타격·발소리 등 충격음)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/impact-sounds
+- 듣기 샘플: [impactsounds_sample.ogg](previews/impactsounds_sample.ogg) (raw 링크: https://raw.githubusercontent.com/sigco3111/assets-audio/main/previews/impactsounds_sample.ogg)
+
+### Digital Audio
+- 파일: `kenney_digitalaudio.zip` (OGG 63개: 레트로·디지털·SF 효과음과 징글)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/digital-audio
+- 듣기 샘플: [digitalaudio_preview.ogg](previews/digitalaudio_preview.ogg) (raw 링크: https://raw.githubusercontent.com/sigco3111/assets-audio/main/previews/digitalaudio_preview.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
