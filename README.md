@@ -53,3 +53,14 @@
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_casinoaudio.zip) (0.9MB, OGG 55개: 카드·칩 효과음)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/casino-audio
 - 듣기 샘플: [kenney_casinoaudio_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_casinoaudio_sample.ogg)
+
+## 2026-10-28 추가 팩 (릴리스 v3.0)
+
+### Voiceover Pack
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverpack.zip) (1.8MB, 파일 99개(남녀 아나운서 음성))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voiceover-pack
+- 듣기 샘플: [kenney_voiceoverpack_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverpack_sample.ogg)
+### Voiceover Pack (Fighter)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverfighter.zip) (1.3MB, 파일 50개(격투 아나운서 음성))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voiceover-pack-fighter
+- 듣기 샘플: [kenney_voiceoverfighter_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverfighter_sample.ogg)
