@@ -64,3 +64,36 @@
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverfighter.zip) (1.3MB, 파일 50개(격투 아나운서 음성))
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voiceover-pack-fighter
 - 듣기 샘플: [kenney_voiceoverfighter_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v3.0/kenney_voiceoverfighter_sample.ogg)
+
+
+## 2026-10-28 추가 확장: 실제 파일 검증
+
+### 100 CC0 SFX
+
+- 다운로드: [100-cc0-sfx.zip](https://github.com/sigco3111/assets-audio/releases/download/v4.0/100-cc0-sfx.zip)
+- 실제 내용: 효과음 100종, OGG 100개. 전 파일 디코딩 검사 완료. [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v4.0/100-cc0-sfx-sample.ogg)
+- 제작: rubberduck / 라이선스: CC0 / 출처: https://opengameart.org/content/100-cc0-sfx
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### 80 CC0 RPG SFX
+
+- 다운로드: [80-cc0-rpg-sfx.zip](https://github.com/sigco3111/assets-audio/releases/download/v4.0/80-cc0-rpg-sfx.zip)
+- 실제 내용: 효과음 80종, OGG 80개. 전 파일 디코딩 검사 완료. [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v4.0/80-cc0-rpg-sfx-sample.ogg)
+- 제작: rubberduck / 라이선스: CC0 / 출처: https://opengameart.org/content/80-cc0-rpg-sfx
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### 100 CC0 SFX #2
+
+- 다운로드: [100-cc0-sfx-2.zip](https://github.com/sigco3111/assets-audio/releases/download/v4.0/100-cc0-sfx-2.zip)
+- 실제 내용: 효과음 100종, OGG 100개. 전 파일 디코딩 검사 완료. [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v4.0/100-cc0-sfx-2-sample.ogg)
+- 제작: rubberduck / 라이선스: CC0 / 출처: https://opengameart.org/content/100-cc0-sfx-2
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### Sound effects Pack 2
+
+- 다운로드: [sound-effects-pack-2.zip](https://github.com/sigco3111/assets-audio/releases/download/v4.0/sound-effects-pack-2.zip)
+- 실제 내용: 효과음 110종, FLAC 110개, MP3 110개, OGG 110개, WAV 110개. 전 파일 디코딩 검사 완료. [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v4.0/sound-effects-pack-2-sample.ogg)
+- 제작: phoenix1291 / 라이선스: CC0 / 출처: https://opengameart.org/content/sound-effects-pack-2
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
