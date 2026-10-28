@@ -42,3 +42,14 @@
 - 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
 
 전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
+
+## 2026-10-28 추가 팩 (릴리스 v2.0)
+
+### UI Audio
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_uiaudio.zip) (0.4MB, OGG 52개: UI 클릭·선택음)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-audio
+- 듣기 샘플: [kenney_uiaudio_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_uiaudio_sample.ogg)
+### Casino Audio
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_casinoaudio.zip) (0.9MB, OGG 55개: 카드·칩 효과음)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/casino-audio
+- 듣기 샘플: [kenney_casinoaudio_sample.ogg](https://github.com/sigco3111/assets-audio/releases/download/v2.0/kenney_casinoaudio_sample.ogg)
