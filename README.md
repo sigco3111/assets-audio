@@ -97,3 +97,62 @@
 - 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
 
 이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
+
+## v5.0 — ansimuz CC0 음악 11종 (2026-10-30)
+
+OpenGameArt 수집 ansimuz 배경음악(칩튠·배틀·테마). 전부 OGA 페이지 CC0 표기 확인. 8종은 원본 `public-license.txt` 동봉, 라이선스 파일 없는 3종(chiptune-exploration·chiptune-run-jump-duck·gothicvania-ghost-town)은 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 근거·원본 SHA-256 명기).
+
+### Boss Fight 2
+- 다운로드: [boss-fight-2.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/boss-fight-2.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.mp3 1개, .txt 1개, .wav 1개, .ogg 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/boss-fight-2-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/boss-fight-2
+
+### Chiptune: Exploration
+- 다운로드: [chiptune-exploration.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/chiptune-exploration.zip)
+- 실제 내용: 파일 4개 (.wav 1개, .ogg 1개, .mp3 1개, .txt 1개); 수집자 LICENSE-SOURCE.txt 동봉(원본 라이선스 미포함, OGA 페이지 CC0 근거) [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/chiptune-exploration-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/chiptune-exploration
+
+### Chiptune: Run Jump Duck
+- 다운로드: [chiptune-run-jump-duck.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/chiptune-run-jump-duck.zip)
+- 실제 내용: 파일 4개 (.ogg 1개, .wav 1개, .mp3 1개, .txt 1개); 수집자 LICENSE-SOURCE.txt 동봉(원본 라이선스 미포함, OGA 페이지 CC0 근거) [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/chiptune-run-jump-duck-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/chiptune-run-jump-duck
+
+### Cyber Runner Music
+- 다운로드: [cyber-runner-music.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/cyber-runner-music.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.wav 1개, .ogg 1개, .txt 1개, .mp3 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/cyber-runner-music-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/cyber-runner-music
+
+### Dark Happy World
+- 다운로드: [dark-happy-world.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/dark-happy-world.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.ogg 1개, .txt 1개, .wav 1개, .mp3 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/dark-happy-world-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/dark-happy-world
+
+### Going Up - adventure Chiptune
+- 다운로드: [going-up-adventure-chiptune.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/going-up-adventure-chiptune.zip)
+- 실제 내용: 파일 4개 (.mp3 1개, .txt 1개, .wav 1개, .ogg 1개); 원본 public-license.txt 동봉(재배포 허용 명시) [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/going-up-adventure-chiptune-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/going-up-adventure-chiptune
+
+### Gothicvania Ghost Town
+- 다운로드: [gothicvania-ghost-town.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/gothicvania-ghost-town.zip)
+- 실제 내용: 파일 3개 (.mp3 1개, .ogg 1개, .txt 1개); 수집자 LICENSE-SOURCE.txt 동봉(원본 라이선스 미포함, OGA 페이지 CC0 근거) [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/gothicvania-ghost-town-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/gothicvania-ghost-town
+
+### Hero's Determination Theme
+- 다운로드: [heros-determination-theme.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/heros-determination-theme.zip)
+- 실제 내용: 파일 3개 (.txt 1개, .mp3 1개, .ogg 1개); 원본 public-license.txt 동봉(재배포 허용 명시) [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/heros-determination-theme-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/heros-determination-theme
+
+### Phantasy Battle Encounter Chiptune
+- 다운로드: [phantasy-battle-encounter-chiptune.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/phantasy-battle-encounter-chiptune.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.txt 1개, .mp3 1개, .ogg 1개, .wav 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/phantasy-battle-encounter-chiptune-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/phantasy-battle-encounter-chiptune
+
+### Phantasy Boss Battle Encounter
+- 다운로드: [phantasy-boss-battle-encounter.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/phantasy-boss-battle-encounter.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.txt 1개, .ogg 1개, .wav 1개, .mp3 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/phantasy-boss-battle-encounter-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/phantasy-boss-battle-encounter
+
+### Up and Right
+- 다운로드: [up-and-right.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/up-and-right.zip) 외 분할 1개
+- 실제 내용: 파일 4개 (.mp3 1개, .txt 1개, .ogg 1개, .wav 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/up-and-right-sample.ogg)
+- 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/up-and-right
