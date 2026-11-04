@@ -872,6 +872,63 @@
 - 제작: Cethiel / 라이선스: CC0 / 원본: https://opengameart.org/content/female-rpg-voice-starter-pack
 - 듣기 샘플: [female-rpg-voice-starter-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//female-rpg-voice-starter-pack-sample.ogg)
 
+### Battle Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-0.zip) (4.6MB, mp3 1개)
+- 제작: vermilion_wizard / 라이선스: CC0 / 원본: https://opengameart.org/content/battle-theme-0
+- 듣기 샘플: [battle-theme-0-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-0-sample.ogg)
+
+### Boss Battle #9 [Metal]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-9-metal.zip) (10.4MB, wav 2개)
+- 제작: Umplix / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-9-metal
+- 듣기 샘플: [boss-battle-9-metal-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-9-metal-sample.ogg)
+
+### The Rush
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-rush.zip) (3.3MB, mp3 1개)
+- 제작: tebruno99 / 라이선스: CC0 / 원본: https://opengameart.org/content/the-rush
+- 듣기 샘플: [the-rush-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-rush-sample.ogg)
+
+### JRPG Pack 5 Action
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-5-action.zip) (10.3MB, ogg 3개 · txt 1개)
+- 제작: Boom Shaka / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-pack-5-action
+- 듣기 샘플: [jrpg-pack-5-action-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-5-action-sample.ogg)
+
+### Anime-esque Intro-Outro Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//anime-esque-intro-outro-theme.zip) (18.9MB, ogg 6개 · wav 6개 · mp3 2개 · txt 1개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/anime-esque-intro-outro-theme
+- 듣기 샘플: [anime-esque-intro-outro-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//anime-esque-intro-outro-theme-sample.ogg)
+
+### Horror scream1
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//horror-scream1.zip) (176KB, mp3 1개)
+- 제작: asepafandi89 / 라이선스: CC0 / 원본: https://opengameart.org/content/horror-scream1
+- 듣기 샘플: [horror-scream1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//horror-scream1-sample.ogg)
+
+### Wind
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wind.zip) (263KB, ogg 3개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/wind
+- 듣기 샘플: [wind-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//wind-sample.ogg)
+
+### Goblins Sound Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//goblins-sound-pack.zip) (1.4MB, wav 15개)
+- 제작: William.Thompsonj / 라이선스: CC0 / 원본: https://opengameart.org/content/goblins-sound-pack
+
+### Dialog vocal samples
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dialog-vocal-samples.zip) (178KB, ogg 32개)
+- 제작: Cough-E / 라이선스: CC0 / 원본: https://opengameart.org/content/dialog-vocal-samples
+
+### Card Game sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//card-game-sounds.zip) (243KB, wav 10개)
+- 제작: tersyolnyolcusu / 라이선스: CC0 / 원본: https://opengameart.org/content/card-game-sounds
+- 듣기 샘플: [card-game-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//card-game-sounds-sample.ogg)
+
+### Wind, hit, time morph
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wind-hit-time-morph.zip) (374KB, wav 3개 · flac 1개)
+- 제작: archpablo / 라이선스: CC0 / 원본: https://opengameart.org/content/wind-hit-time-morph
+
+### 30 CC0 SFX loops
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//30-cc0-sfx-loops.zip) (3.5MB, ogg 30개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/30-cc0-sfx-loops
+- 듣기 샘플: [30-cc0-sfx-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//30-cc0-sfx-loops-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
