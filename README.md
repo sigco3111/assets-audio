@@ -513,6 +513,76 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//85-short-music-jingles.zip) (1.1MB, ogg 85개 · txt 1개)
 - 제작: fluffrabbit / 라이선스: CC0 / 원본: https://opengameart.org/content/85-short-music-jingles
 
+### Horror Atmosphere
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//horror-atmosphere.zip) (14.2MB, ogg 1개)
+- 제작: komiro100 / 라이선스: CC0 / 원본: https://opengameart.org/content/horror-atmosphere
+- 듣기 샘플: [horror-atmosphere-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//horror-atmosphere-sample.ogg)
+
+### Emotional piano loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//emotional-piano-loop.zip) (4.1MB, wav 1개)
+- 제작: LifeDisarmoniA / 라이선스: CC0 / 원본: https://opengameart.org/content/emotional-piano-loop
+- 듣기 샘플: [emotional-piano-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//emotional-piano-loop-sample.ogg)
+
+### Instrumental music(3)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//instrumental-music3.zip) (7.3MB, mp3 6개)
+- 제작: nander / 라이선스: CC0 / 원본: https://opengameart.org/content/instrumental-music3
+- 듣기 샘플: [instrumental-music3-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//instrumental-music3-sample.ogg)
+
+### Adventure Time
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//adventure-time.zip) (1.3MB, mp3 1개)
+- 제작: johndh / 라이선스: CC0 / 원본: https://opengameart.org/content/adventure-time
+- 듣기 샘플: [adventure-time-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//adventure-time-sample.ogg)
+
+### Dark Intro
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dark-intro.zip) (1.5MB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-intro
+- 듣기 샘플: [dark-intro-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dark-intro-sample.ogg)
+
+### At the end of hope
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//at-the-end-of-hope.zip) (22.1MB, wav 2개 · mp3 1개)
+- 제작: Chasersgaming / 라이선스: CC0 / 원본: https://opengameart.org/content/at-the-end-of-hope
+- 듣기 샘플: [at-the-end-of-hope-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//at-the-end-of-hope-sample.ogg)
+
+### Free Run [8 bit(ish)]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//free-run-8-bitish.zip) (2.0MB, mp3 1개)
+- 제작: josepharaoh99 / 라이선스: CC0 / 원본: https://opengameart.org/content/free-run-8-bitish
+- 듣기 샘플: [free-run-8-bitish-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//free-run-8-bitish-sample.ogg)
+
+### Voiceover Pack (40+ lines)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//voiceover-pack-40-lines.zip) (1.8MB, ogg 94개 · txt 2개 · png 1개)
+- 제작: warrior1988 / 라이선스: CC0 / 원본: https://opengameart.org/content/voiceover-pack-40-lines
+- 듣기 샘플: [voiceover-pack-40-lines-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//voiceover-pack-40-lines-sample.ogg)
+
+### wind1
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wind1.zip) (19.5MB, wav 5개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/wind1
+- 듣기 샘플: [wind1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//wind1-sample.ogg)
+
+### 3 Melee sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//3-melee-sounds.zip) (248KB, wav 3개 · txt 1개)
+- 제작: Dream2Reality / 라이선스: CC0 / 원본: https://opengameart.org/content/3-melee-sounds
+- 듣기 샘플: [3-melee-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//3-melee-sounds-sample.ogg)
+
+### 4 Atmospheric ghostly loops
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//4-atmospheric-ghostly-loops.zip) (3.4MB, flac 4개)
+- 제작: NeoStrider / 라이선스: CC0 / 원본: https://opengameart.org/content/4-atmospheric-ghostly-loops
+- 듣기 샘플: [4-atmospheric-ghostly-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//4-atmospheric-ghostly-loops-sample.ogg)
+
+### Fantozzi's Footsteps (Grass/Sand & Stone)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantozzis-footsteps-grasssand-stone.zip) (506KB, ogg 12개 · flac 12개)
+- 제작: Raassh / 라이선스: CC0 / 원본: https://opengameart.org/content/fantozzis-footsteps-grasssand-stone
+- 듣기 샘플: [fantozzis-footsteps-grasssand-stone-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantozzis-footsteps-grasssand-stone-sample.ogg)
+
+### 40 CC0 water / splash / slime SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//40-cc0-water-splash-slime-sfx.zip) (2.3MB, ogg 40개)
+- 제작: rockseller / 라이선스: CC0 / 원본: https://opengameart.org/content/40-cc0-water-splash-slime-sfx
+- 듣기 샘플: [40-cc0-water-splash-slime-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//40-cc0-water-splash-slime-sfx-sample.ogg)
+
+### 202 More Sound Effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//202-more-sound-effects.zip) (15.5MB, wav 202개)
+- 제작: maocleal / 라이선스: CC0 / 원본: https://opengameart.org/content/202-more-sound-effects
+- 듣기 샘플: [202-more-sound-effects-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//202-more-sound-effects-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
