@@ -1361,6 +1361,75 @@
 - 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/4-dry-snow-steps
 - 듣기 샘플: [4-dry-snow-steps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//4-dry-snow-steps-sample.ogg)
 
+### 8-bit Mechanical Complex
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-mechanical-complex.zip) (6.4MB, mp3 1개)
+- 제작: Spring Spring / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-mechanical-complex
+- 듣기 샘플: [8-bit-mechanical-complex-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-bit-mechanical-complex-sample.ogg)
+
+### Black Diamond
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//black-diamond.zip) (4.0MB, mp3 1개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/black-diamond
+- 듣기 샘플: [black-diamond-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//black-diamond-sample.ogg)
+
+### T & T Free Cyberpunk Pack 2
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//t-t-free-cyberpunk-pack-2.zip) (134.3MB, ogg 10개 · jpg 1개)
+- 제작: Bobjt / 라이선스: CC0 / 원본: https://opengameart.org/content/t-t-free-cyberpunk-pack-2
+- 듣기 샘플: [t-t-free-cyberpunk-pack-2-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//t-t-free-cyberpunk-pack-2-sample.ogg)
+
+### 8-bit Haunted House Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-haunted-house-theme.zip) (4.8MB, mp3 1개 · wav 1개)
+- 제작: NorthernnecromanceR / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-haunted-house-theme
+- 듣기 샘플: [8-bit-haunted-house-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-bit-haunted-house-theme-sample.ogg)
+
+### Random Battle
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//random-battle.zip) (814KB, mp3 1개)
+- 제작: Hydroque / 라이선스: CC0 / 원본: https://opengameart.org/content/random-battle
+- 듣기 샘플: [random-battle-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//random-battle-sample.ogg)
+
+### Pack of loopable game music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//pack-of-loopable-game-music.zip) (33.9MB, mp3 8개)
+- 제작: KumoKairo / 라이선스: CC0 / 원본: https://opengameart.org/content/pack-of-loopable-game-music
+- 듣기 샘플: [pack-of-loopable-game-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//pack-of-loopable-game-music-sample.ogg)
+
+### Fight for Better Future [Rock/Metal]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fight-for-better-future-rockmetal.zip) (11.4MB, wav 1개)
+- 제작: Calyad / 라이선스: CC0 / 원본: https://opengameart.org/content/fight-for-better-future-rockmetal
+- 듣기 샘플: [fight-for-better-future-rockmetal-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fight-for-better-future-rockmetal-sample.ogg)
+
+### Near and Far
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//near-and-far.zip) (1.8MB, mp3 1개 · ogg 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/near-and-far
+- 듣기 샘플: [near-and-far-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//near-and-far-sample.ogg)
+
+### Sea and river wave sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sea-and-river-wave-sounds.zip) (191.5MB, mp3 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/sea-and-river-wave-sounds
+- 듣기 샘플: [sea-and-river-wave-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sea-and-river-wave-sounds-sample.ogg)
+
+### SFX: The Ultimate 2017 16 bit Mini pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sfx-the-ultimate-2017-16-bit-mini-pack.zip) (12.1MB, wav 210개 · ogg 210개 · png 1개)
+- 제작: NoirPhantom89 / 라이선스: CC0 / 원본: https://opengameart.org/content/sfx-the-ultimate-2017-16-bit-mini-pack
+- 듣기 샘플: [sfx-the-ultimate-2017-16-bit-mini-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sfx-the-ultimate-2017-16-bit-mini-pack-sample.ogg)
+
+### Well Done
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//well-done.zip) (350KB, flac 1개 · ogg 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/well-done
+- 듣기 샘플: [well-done-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//well-done-sample.ogg)
+
+### Storm & Siren
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//storm-siren.zip) (2.4MB, ogg 1개 · mp3 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/storm-siren
+- 듣기 샘플: [storm-siren-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//storm-siren-sample.ogg)
+
+### 87 Clickety Clips
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//87-clickety-clips.zip) (3.9MB, wav 87개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/87-clickety-clips
+
+### 60 CC0 Sci-Fi SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//60-cc0-sci-fi-sfx.zip) (9.2MB, ogg 60개)
+- 제작: number99 / 라이선스: CC0 / 원본: https://opengameart.org/content/60-cc0-sci-fi-sfx
+- 듣기 샘플: [60-cc0-sci-fi-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//60-cc0-sci-fi-sfx-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
