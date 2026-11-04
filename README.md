@@ -302,6 +302,90 @@
 - 제작: Jorge Avila / 라이선스: CC0 / 원본: https://opengameart.org/content/swamp-environment-audio
 - 듣기 샘플: [swamp-environment-audio-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//swamp-environment-audio-sample.ogg)
 
+### Happy Lullaby (song17)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//happy-lullaby-song17.zip) (438KB, mp3 1개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/happy-lullaby-song17
+- 듣기 샘플: [happy-lullaby-song17-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//happy-lullaby-song17-sample.ogg)
+
+### JRPG Pack 1 Exploration
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-1-exploration.zip) (16.4MB, ogg 6개 · txt 1개)
+- 제작: pebonius / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-pack-1-exploration
+- 듣기 샘플: [jrpg-pack-1-exploration-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-1-exploration-sample.ogg)
+
+### Zombies' March
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//zombies-march.zip) (1.7MB, ogg 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/zombies-march
+- 듣기 샘플: [zombies-march-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//zombies-march-sample.ogg)
+
+### Chill lofi inspired
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//chill-lofi-inspired.zip) (9.2MB, ogg 1개 · mp3 1개)
+- 제작: isaiah658 / 라이선스: CC0 / 원본: https://opengameart.org/content/chill-lofi-inspired
+- 듣기 샘플: [chill-lofi-inspired-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//chill-lofi-inspired-sample.ogg)
+
+### Eye of the Storm
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//eye-of-the-storm.zip) (914KB, mp3 1개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/eye-of-the-storm
+- 듣기 샘플: [eye-of-the-storm-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//eye-of-the-storm-sample.ogg)
+
+### Dark Forest Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dark-forest-theme.zip) (1.9MB, mp3 1개)
+- 제작: josepharaoh99 / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-forest-theme
+- 듣기 샘플: [dark-forest-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dark-forest-theme-sample.ogg)
+
+### Boss Battle #2 [Symphonic Metal]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-symphonic-metal.zip) (11.0MB, wav 2개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-2-symphonic-metal
+- 듣기 샘플: [boss-battle-2-symphonic-metal-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-symphonic-metal-sample.ogg)
+
+### Insistent: background loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//insistent-background-loop.zip) (1.8MB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/insistent-background-loop
+- 듣기 샘플: [insistent-background-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//insistent-background-loop-sample.ogg)
+
+### Boss Battle Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-theme.zip) (11.3MB, ogg 1개 · mp3 1개)
+- 제작: Ge0 / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-theme
+- 듣기 샘플: [boss-battle-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-theme-sample.ogg)
+
+### Fantasy Choir-3 orchestral pieces
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-choir-3-orchestral-pieces.zip) (69.7MB, wav 3개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-choir-3-orchestral-pieces
+- 듣기 샘플: [fantasy-choir-3-orchestral-pieces-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-choir-3-orchestral-pieces-sample.ogg)
+
+### Music loop variations
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//music-loop-variations.zip) (22.0MB, wav 6개)
+- 제작: gravitygamingco / 라이선스: CC0 / 원본: https://opengameart.org/content/music-loop-variations
+- 듣기 샘플: [music-loop-variations-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//music-loop-variations-sample.ogg)
+
+### Mythica
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//mythica.zip) (7.4MB, mp3 1개)
+- 제작: ElfElix / 라이선스: CC0 / 원본: https://opengameart.org/content/mythica
+- 듣기 샘플: [mythica-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//mythica-sample.ogg)
+
+### Sound Effects Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sound-effects-pack.zip) (147.0MB, wav 161개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/sound-effects-pack
+- 듣기 샘플: [sound-effects-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sound-effects-pack-sample.ogg)
+
+### 16 button clicks
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//16-button-clicks.zip) (375KB, flac 16개)
+- 제작: SirFalcon / 라이선스: CC0 / 원본: https://opengameart.org/content/16-button-clicks
+- 듣기 샘플: [16-button-clicks-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//16-button-clicks-sample.ogg)
+
+### Impact
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//impact.zip) (147KB, ogg 5개 · flac 5개)
+- 제작: artificialintel... / 라이선스: CC0 / 원본: https://opengameart.org/content/impact
+- 듣기 샘플: [impact-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//impact-sample.ogg)
+
+### Monster Sound Effects 2
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-effects-2.zip) (2.0MB, wav 17개)
+- 제작: johndh / 라이선스: CC0 / 원본: https://opengameart.org/content/monster-sound-effects-2
+- 듣기 샘플: [monster-sound-effects-2-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-effects-2-sample.ogg)
+
+### Heartbeat sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//heartbeat-sounds.zip) (1.2MB, wav 4개)
+- 제작: estevinho / 라이선스: CC0 / 원본: https://opengameart.org/content/heartbeat-sounds
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
