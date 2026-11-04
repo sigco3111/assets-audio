@@ -1287,6 +1287,80 @@
 - 제작: uzairali001 / 라이선스: CC0 / 원본: https://opengameart.org/content/bird-chirping-sounds
 - 듣기 샘플: [bird-chirping-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//bird-chirping-sounds-sample.ogg)
 
+### Covert Operations
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//covert-operations.zip) (2.4MB, mp3 1개)
+- 제작: Gobusto / 라이선스: CC0 / 원본: https://opengameart.org/content/covert-operations
+- 듣기 샘플: [covert-operations-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//covert-operations-sample.ogg)
+
+### Apple Cider
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//apple-cider.zip) (68.5MB, ogg 1개 · wav 1개)
+- 제작: SeventhSeeker / 라이선스: CC0 / 원본: https://opengameart.org/content/apple-cider
+- 듣기 샘플: [apple-cider-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//apple-cider-sample.ogg)
+
+### Epic Endgame Cinematic
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//epic-endgame-cinematic.zip) (29.7MB, wav 1개)
+- 제작: Perfect Morty / 라이선스: CC0 / 원본: https://opengameart.org/content/epic-endgame-cinematic
+- 듣기 샘플: [epic-endgame-cinematic-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//epic-endgame-cinematic-sample.ogg)
+
+### JRPG Epic Rock Battle Theme #1
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-epic-rock-battle-theme-1.zip) (5.9MB, mp3 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-epic-rock-battle-theme-1
+- 듣기 샘플: [jrpg-epic-rock-battle-theme-1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-epic-rock-battle-theme-1-sample.ogg)
+
+### Summer Sunday
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//summer-sunday.zip) (9.1MB, wav 2개)
+- 제작: josepharaoh99 / 라이선스: CC0 / 원본: https://opengameart.org/content/summer-sunday
+- 듣기 샘플: [summer-sunday-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//summer-sunday-sample.ogg)
+
+### 6 genuinely C64 soundtracks released as public domain, May 2017
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//6-genuinely-c64-soundtracks-released-as-public-domain-may-2017.zip) (8.2MB, ogg 6개)
+- 제작: Yaotu / 라이선스: CC0 / 원본: https://opengameart.org/content/6-genuinely-c64-soundtracks-released-as-public-domain-may-2017
+- 듣기 샘플: [6-genuinely-c64-soundtracks-released-as-public-domain-may-2017-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//6-genuinely-c64-soundtracks-released-as-public-domain-may-2017-sample.ogg)
+
+### Underwater Theme II
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//underwater-theme-ii.zip) (32.2MB, flac 1개 · mp3 1개 · wav 1개 · ogg 1개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/underwater-theme-ii
+- 듣기 샘플: [underwater-theme-ii-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//underwater-theme-ii-sample.ogg)
+
+### wind whoosh loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wind-whoosh-loop.zip) (250KB, ogg 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/wind-whoosh-loop
+- 듣기 샘플: [wind-whoosh-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//wind-whoosh-loop-sample.ogg)
+
+### Helicopter Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//helicopter-sounds.zip) (546KB, mp3 1개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/helicopter-sounds
+- 듣기 샘플: [helicopter-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//helicopter-sounds-sample.ogg)
+
+### New thing get!
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//new-thing-get.zip) (162KB, ogg 1개)
+- 제작: Terrin Tin 01 / 라이선스: CC0 / 원본: https://opengameart.org/content/new-thing-get
+- 듣기 샘플: [new-thing-get-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//new-thing-get-sample.ogg)
+
+### Chunky Explosion
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//chunky-explosion.zip) (106KB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/chunky-explosion
+- 듣기 샘플: [chunky-explosion-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//chunky-explosion-sample.ogg)
+
+### Interface beeps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//interface-beeps.zip) (1.1MB, wav 16개)
+- 제작: Anderson dos Santos / 라이선스: CC0 / 원본: https://opengameart.org/content/interface-beeps
+- 듣기 샘플: [interface-beeps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//interface-beeps-sample.ogg)
+
+### Click sounds(6)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//click-sounds6.zip) (34KB, mp3 6개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/click-sounds6
+
+### Steam boiler sound loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//steam-boiler-sound-loop.zip) (3.7MB, wav 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/steam-boiler-sound-loop
+- 듣기 샘플: [steam-boiler-sound-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//steam-boiler-sound-loop-sample.ogg)
+
+### 4 dry snow steps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//4-dry-snow-steps.zip) (320KB, flac 4개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/4-dry-snow-steps
+- 듣기 샘플: [4-dry-snow-steps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//4-dry-snow-steps-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
