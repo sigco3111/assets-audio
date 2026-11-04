@@ -1568,6 +1568,83 @@
 - 제작: number99 / 라이선스: CC0 / 원본: https://opengameart.org/content/laser-weapon-burst-fire
 - 듣기 샘플: [laser-weapon-burst-fire-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//laser-weapon-burst-fire-sample.ogg)
 
+### Cold Silence
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//cold-silence.zip) (5.0MB, ogg 1개)
+- 제작: Nukaze / 라이선스: CC0 / 원본: https://opengameart.org/content/cold-silence
+- 듣기 샘플: [cold-silence-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//cold-silence-sample.ogg)
+
+### Lasso Lady (seamless loop)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//lasso-lady-seamless-loop.zip) (913KB, ogg 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/lasso-lady-seamless-loop
+- 듣기 샘플: [lasso-lady-seamless-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//lasso-lady-seamless-loop-sample.ogg)
+
+### Ending Scene
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ending-scene.zip) (93.5MB, wav 4개)
+- 제작: Luca Pixel / 라이선스: CC0 / 원본: https://opengameart.org/content/ending-scene
+- 듣기 샘플: [ending-scene-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ending-scene-sample.ogg)
+
+### Raspberry Jam
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//raspberry-jam.zip) (3.0MB, ogg 1개)
+- 제작: Jan125 / 라이선스: CC0 / 원본: https://opengameart.org/content/raspberry-jam
+- 듣기 샘플: [raspberry-jam-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//raspberry-jam-sample.ogg)
+
+### The Charm 68
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-charm-68.zip) (128.2MB, wav 1개)
+- 제작: Flixberry Enter... / 라이선스: CC0 / 원본: https://opengameart.org/content/the-charm-68
+- 듣기 샘플: [the-charm-68-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-charm-68-sample.ogg)
+
+### Sad Scene Music (What is Left)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sad-scene-music-what-is-left.zip) (2.1MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/sad-scene-music-what-is-left
+- 듣기 샘플: [sad-scene-music-what-is-left-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sad-scene-music-what-is-left-sample.ogg)
+
+### Adventure Intro Title [Cinematic, Epic]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//adventure-intro-title-cinematic-epic.zip) (5.1MB, wav 1개)
+- 제작: blufox / 라이선스: CC0 / 원본: https://opengameart.org/content/adventure-intro-title-cinematic-epic
+- 듣기 샘플: [adventure-intro-title-cinematic-epic-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//adventure-intro-title-cinematic-epic-sample.ogg)
+
+### MainMenu Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//mainmenu-music.zip) (4.4MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/mainmenu-music
+- 듣기 샘플: [mainmenu-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//mainmenu-music-sample.ogg)
+
+### Keyboard Soundpack #1 [Typing and Single Keystrokes]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//keyboard-soundpack-1-typing-and-single-keystrokes.zip) (10.2MB, wav 49개 · ogg 1개 · txt 1개 · jpg 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/keyboard-soundpack-1-typing-and-single-keystrokes
+- 듣기 샘플: [keyboard-soundpack-1-typing-and-single-keystrokes-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//keyboard-soundpack-1-typing-and-single-keystrokes-sample.ogg)
+
+### Handgun Reload Sound Effect
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//handgun-reload-sound-effect.zip) (163KB, wav 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/handgun-reload-sound-effect
+- 듣기 샘플: [handgun-reload-sound-effect-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//handgun-reload-sound-effect-sample.ogg)
+
+### Alien sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//alien-sounds.zip) (386KB, flac 7개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/alien-sounds
+- 듣기 샘플: [alien-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//alien-sounds-sample.ogg)
+
+### Laser_shooting_sx
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//lasershootingsx.zip) (9KB, wav 1개)
+- 제작: CHGamer / 라이선스: CC0 / 원본: https://opengameart.org/content/lasershootingsx
+
+### Explosion somewhere far
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//explosion-somewhere-far.zip) (113KB, mp3 1개)
+- 제작: ripple182 / 라이선스: CC0 / 원본: https://opengameart.org/content/explosion-somewhere-far
+- 듣기 샘플: [explosion-somewhere-far-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//explosion-somewhere-far-sample.ogg)
+
+### SuperTuxKart sound effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//supertuxkart-sound-effects.zip) (1.3MB, mp3 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/supertuxkart-sound-effects
+- 듣기 샘플: [supertuxkart-sound-effects-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//supertuxkart-sound-effects-sample.ogg)
+
+### 8-BIT Jump #1
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-jump-1.zip) (2.3MB, wav 49개 · mp3 8개 · png 2개)
+- 제작: juanita / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-jump-1
+
+### 8bit SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-sfx.zip) (429KB, wav 12개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-sfx
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
