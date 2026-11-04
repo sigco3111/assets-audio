@@ -583,6 +583,74 @@
 - 제작: maocleal / 라이선스: CC0 / 원본: https://opengameart.org/content/202-more-sound-effects
 - 듣기 샘플: [202-more-sound-effects-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//202-more-sound-effects-sample.ogg)
 
+### The 9th Circle
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-9th-circle.zip) (3.4MB, mp3 1개)
+- 제작: CleytonKauffman / 라이선스: CC0 / 원본: https://opengameart.org/content/the-9th-circle
+- 듣기 샘플: [the-9th-circle-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-9th-circle-sample.ogg)
+
+### Where was I?
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//where-was-i.zip) (698KB, ogg 1개)
+- 제작: vestrel00 / 라이선스: CC0 / 원본: https://opengameart.org/content/where-was-i
+- 듣기 샘플: [where-was-i-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//where-was-i-sample.ogg)
+
+### Fantasy: Lament for a Warrior's Soul
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-lament-for-a-warriors-soul.zip) (10.6MB, mp3 2개 · png 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-lament-for-a-warriors-soul
+- 듣기 샘플: [fantasy-lament-for-a-warriors-soul-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-lament-for-a-warriors-soul-sample.ogg)
+
+### Determined Pursuit (epic orchestra loop)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//determined-pursuit-epic-orchestra-loop.zip) (18.3MB, wav 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/determined-pursuit-epic-orchestra-loop
+- 듣기 샘플: [determined-pursuit-epic-orchestra-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//determined-pursuit-epic-orchestra-loop-sample.ogg)
+
+### 8Bit Title Screen
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-title-screen.zip) (347KB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-title-screen
+- 듣기 샘플: [8bit-title-screen-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8bit-title-screen-sample.ogg)
+
+### Shop Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//shop-theme.zip) (13.9MB, ogg 2개 · mp3 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/shop-theme
+- 듣기 샘플: [shop-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//shop-theme-sample.ogg)
+
+### bubbles 'pop'
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//bubbles-pop.zip) (7KB, ogg 1개)
+- 제작: Reemax / 라이선스: CC0 / 원본: https://opengameart.org/content/bubbles-pop
+
+### 80 CC0 creature SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//80-cc0-creature-sfx.zip) (1.9MB, ogg 80개)
+- 제작: Chasersgaming / 라이선스: CC0 / 원본: https://opengameart.org/content/80-cc0-creature-sfx
+- 듣기 샘플: [80-cc0-creature-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//80-cc0-creature-sfx-sample.ogg)
+
+### bomb_explosion_8bit
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//bombexplosion8bit.zip) (30KB, wav 1개)
+- 제작: mousebomb / 라이선스: CC0 / 원본: https://opengameart.org/content/bombexplosion8bit
+- 듣기 샘플: [bombexplosion8bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//bombexplosion8bit-sample.ogg)
+
+### Water Waves
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//water-waves.zip) (1.6MB, flac 4개)
+- 제작: supergamez2014 / 라이선스: CC0 / 원본: https://opengameart.org/content/water-waves
+- 듣기 샘플: [water-waves-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//water-waves-sample.ogg)
+
+### Door open, door close
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//door-open-door-close.zip) (1.9MB, flac 9개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/door-open-door-close
+- 듣기 샘플: [door-open-door-close-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//door-open-door-close-sample.ogg)
+
+### Monster Sound Pack, Volume 1
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-pack-volume-1.zip) (2.0MB, wav 18개)
+- 제작: LFA / 라이선스: CC0 / 원본: https://opengameart.org/content/monster-sound-pack-volume-1
+- 듣기 샘플: [monster-sound-pack-volume-1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-pack-volume-1-sample.ogg)
+
+### Interface Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//interface-sounds.zip) (842KB, ogg 100개 · txt 1개 · png 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/interface-sounds
+
+### Steam release sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//steam-release-sounds.zip) (630KB, wav 5개)
+- 제작: XilliX / 라이선스: CC0 / 원본: https://opengameart.org/content/steam-release-sounds
+- 듣기 샘플: [steam-release-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//steam-release-sounds-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
