@@ -386,6 +386,65 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//heartbeat-sounds.zip) (1.2MB, wav 4개)
 - 제작: estevinho / 라이선스: CC0 / 원본: https://opengameart.org/content/heartbeat-sounds
 
+### Medieval: The Bard's Tale
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//medieval-the-bards-tale.zip) (14.6MB, mp3 1개 · wav 1개 · png 1개)
+- 제작: Flixberry Enter... / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-the-bards-tale
+- 듣기 샘플: [medieval-the-bards-tale-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//medieval-the-bards-tale-sample.ogg)
+
+### Night Prowler
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//night-prowler.zip) (2.4MB, ogg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/night-prowler
+- 듣기 샘플: [night-prowler-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//night-prowler-sample.ogg)
+
+### "Prepare your swords"
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//prepare-your-swords.zip) (2.6MB, ogg 1개 · mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/prepare-your-swords
+- 듣기 샘플: [prepare-your-swords-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//prepare-your-swords-sample.ogg)
+
+### The Slimeking's Tower OST (Retro like)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-slimekings-tower-ost-retro-like.zip) (5.5MB, mp3 7개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/the-slimekings-tower-ost-retro-like
+- 듣기 샘플: [the-slimekings-tower-ost-retro-like-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-slimekings-tower-ost-retro-like-sample.ogg)
+
+### Adventure Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//adventure-theme.zip) (11.3MB, ogg 4개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/adventure-theme
+- 듣기 샘플: [adventure-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//adventure-theme-sample.ogg)
+
+### Searching
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//searching.zip) (1.6MB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/searching
+- 듣기 샘플: [searching-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//searching-sample.ogg)
+
+### CC0 Scraps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//cc0-scraps.zip) (140.6MB, mp3 42개 · wav 22개)
+- 제작: Yaotu / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-scraps
+- 듣기 샘플: [cc0-scraps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//cc0-scraps-sample.ogg)
+
+### Galactic Temple
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//galactic-temple.zip) (1.1MB, ogg 1개)
+- 제작: Varkalandar / 라이선스: CC0 / 원본: https://opengameart.org/content/galactic-temple
+- 듣기 샘플: [galactic-temple-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//galactic-temple-sample.ogg)
+
+### Medieval: Minstrel Dance
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//medieval-minstrel-dance.zip) (24.8MB, wav 1개 · jpg 1개 · mp3 1개)
+- 제작: Ivan Voirol / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-minstrel-dance
+- 듣기 샘플: [medieval-minstrel-dance-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//medieval-minstrel-dance-sample.ogg)
+
+### Long Away Home [8bit]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//long-away-home-8bit.zip) (15.4MB, wav 1개)
+- 제작: isaiah658 / 라이선스: CC0 / 원본: https://opengameart.org/content/long-away-home-8bit
+- 듣기 샘플: [long-away-home-8bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//long-away-home-8bit-sample.ogg)
+
+### Jump Landing Sound
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jump-landing-sound.zip) (39KB, mp3 2개 · wav 1개)
+- 제작: 불명 (OGA 계정 삭제됨) / 라이선스: CC0 / 원본: https://opengameart.org/content/jump-landing-sound
+
+### UI Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ui-sounds.zip) (67KB, ogg 5개)
+- 제작: Vladiedoo / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-sounds
+- 듣기 샘플: [ui-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ui-sounds-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
