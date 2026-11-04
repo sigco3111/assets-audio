@@ -193,6 +193,115 @@
 - 제작: joaquinton / 라이선스: CC0 / 원본: https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
 - 듣기 샘플: [level-up-power-up-coin-get-13-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//level-up-power-up-coin-get-13-sounds-sample.ogg)
 
+### Forest Ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//forest-ambience.zip) (711KB, mp3 1개)
+- 제작: Slobad / 라이선스: CC0 / 원본: https://opengameart.org/content/forest-ambience
+- 듣기 샘플: [forest-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//forest-ambience-sample.ogg)
+
+### Forgoten tomb ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//forgoten-tomb-ambience.zip) (5.1MB, mp3 1개)
+- 제작: Zefz / 라이선스: CC0 / 원본: https://opengameart.org/content/forgoten-tomb-ambience
+- 듣기 샘플: [forgoten-tomb-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//forgoten-tomb-ambience-sample.ogg)
+
+### Medieval: The Old Tower Inn
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//medieval-the-old-tower-inn.zip) (11.3MB, mp3 1개 · wav 1개 · jpg 1개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-the-old-tower-inn
+- 듣기 샘플: [medieval-the-old-tower-inn-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//medieval-the-old-tower-inn-sample.ogg)
+
+### Underwater Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//underwater-theme.zip) (50.7MB, mp3 1개 · wav 1개)
+- 제작: 2DPIXX / 라이선스: CC0 / 원본: https://opengameart.org/content/underwater-theme
+- 듣기 샘플: [underwater-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//underwater-theme-sample.ogg)
+
+### Tower Defense Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//tower-defense-theme.zip) (7.7MB, mp3 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/tower-defense-theme
+- 듣기 샘플: [tower-defense-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//tower-defense-theme-sample.ogg)
+
+### Desert theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//desert-theme.zip) (1.9MB, ogg 1개)
+- 제작: Retimer / 라이선스: CC0 / 원본: https://opengameart.org/content/desert-theme
+- 듣기 샘플: [desert-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//desert-theme-sample.ogg)
+
+### Fast fight / battle music (looped)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fast-fight-battle-music-looped.zip) (4.3MB, wav 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/fast-fight-battle-music-looped
+- 듣기 샘플: [fast-fight-battle-music-looped-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fast-fight-battle-music-looped-sample.ogg)
+
+### Dungeon Ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dungeon-ambience.zip) (1.2MB, ogg 1개)
+- 제작: Creomoto / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-ambience
+- 듣기 샘플: [dungeon-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dungeon-ambience-sample.ogg)
+
+### Vampire's Piano
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//vampires-piano.zip) (17.5MB, wav 1개 · mp3 1개)
+- 제작: isaiah658 / 라이선스: CC0 / 원본: https://opengameart.org/content/vampires-piano
+- 듣기 샘플: [vampires-piano-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//vampires-piano-sample.ogg)
+
+### Creepy
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//creepy.zip) (23.0MB, mp3 1개 · wav 1개 · ogg 1개)
+- 제작: yethiel / 라이선스: CC0 / 원본: https://opengameart.org/content/creepy
+- 듣기 샘플: [creepy-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//creepy-sample.ogg)
+
+### Breves dies hominis
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//breves-dies-hominis.zip) (2.7MB, ogg 1개)
+- 제작: hashcashbtcfundedart / 라이선스: CC0 / 원본: https://opengameart.org/content/breves-dies-hominis
+- 듣기 샘플: [breves-dies-hominis-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//breves-dies-hominis-sample.ogg)
+
+### I swear I saw it - background track
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//i-swear-i-saw-it-background-track.zip) (2.6MB, ogg 1개)
+- 제작: Zasisem / 라이선스: CC0 / 원본: https://opengameart.org/content/i-swear-i-saw-it-background-track
+- 듣기 샘플: [i-swear-i-saw-it-background-track-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//i-swear-i-saw-it-background-track-sample.ogg)
+
+### Factory ambiance
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//factory-ambiance.zip) (2.4MB, ogg 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/factory-ambiance
+- 듣기 샘플: [factory-ambiance-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//factory-ambiance-sample.ogg)
+
+### Dripping water loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dripping-water-loop.zip) (1.3MB, flac 1개)
+- 제작: supergamez2014 / 라이선스: CC0 / 원본: https://opengameart.org/content/dripping-water-loop
+- 듣기 샘플: [dripping-water-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dripping-water-loop-sample.ogg)
+
+### Zombies Sound Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//zombies-sound-pack.zip) (4.7MB, wav 24개)
+- 제작: Dome / 라이선스: CC0 / 원본: https://opengameart.org/content/zombies-sound-pack
+- 듣기 샘플: [zombies-sound-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//zombies-sound-pack-sample.ogg)
+
+### 8 wet squish, slurp impacts
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-wet-squish-slurp-impacts.zip) (584KB, flac 8개)
+- 제작: XF3DeX / 라이선스: CC0 / 원본: https://opengameart.org/content/8-wet-squish-slurp-impacts
+- 듣기 샘플: [8-wet-squish-slurp-impacts-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-wet-squish-slurp-impacts-sample.ogg)
+
+### Swishes Sound Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//swishes-sound-pack.zip) (383KB, wav 13개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/swishes-sound-pack
+
+### 35 wooden cracks/hits/destructions
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//35-wooden-crackshitsdestructions.zip) (4.3MB, flac 35개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/35-wooden-crackshitsdestructions
+- 듣기 샘플: [35-wooden-crackshitsdestructions-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//35-wooden-crackshitsdestructions-sample.ogg)
+
+### Loopable Dungeon Ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//loopable-dungeon-ambience.zip) (1.6MB, ogg 1개)
+- 제작: IgnasD / 라이선스: CC0 / 원본: https://opengameart.org/content/loopable-dungeon-ambience
+- 듣기 샘플: [loopable-dungeon-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//loopable-dungeon-ambience-sample.ogg)
+
+### Door Open, Door Close Set
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//door-open-door-close-set.zip) (3.4MB, ogg 18개 · flac 18개)
+- 제작: LitmusDragon / 라이선스: CC0 / 원본: https://opengameart.org/content/door-open-door-close-set
+- 듣기 샘플: [door-open-door-close-set-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//door-open-door-close-set-sample.ogg)
+
+### Ghost Monster Voice Moaning & Growling
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ghost-monster-voice-moaning-growling.zip) (4.0MB, mp3 5개 · wav 5개)
+- 제작: shd / 라이선스: CC0 / 원본: https://opengameart.org/content/ghost-monster-voice-moaning-growling
+- 듣기 샘플: [ghost-monster-voice-moaning-growling-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ghost-monster-voice-moaning-growling-sample.ogg)
+
+### Swamp Environment Audio
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//swamp-environment-audio.zip) (3.6MB, ogg 19개 · wav 1개)
+- 제작: Jorge Avila / 라이선스: CC0 / 원본: https://opengameart.org/content/swamp-environment-audio
+- 듣기 샘플: [swamp-environment-audio-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//swamp-environment-audio-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
