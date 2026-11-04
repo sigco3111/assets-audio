@@ -1142,6 +1142,73 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-menu-select.zip) (33KB, ogg 1개 · wav 1개)
 - 제작: -Ryu- / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-menu-select
 
+### 12 Music Loops
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//12-music-loops.zip) (33.5MB, ogg 12개)
+- 제작: Hazmat Harry / 라이선스: CC0 / 원본: https://opengameart.org/content/12-music-loops
+- 듣기 샘플: [12-music-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//12-music-loops-sample.ogg)
+
+### Boss Battle #4 [8-bit re-upload]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-4-8-bit-re-upload.zip) (65.2MB, wav 2개)
+- 제작: Disgustedorite / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-4-8-bit-re-upload
+- 듣기 샘플: [boss-battle-4-8-bit-re-upload-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-4-8-bit-re-upload-sample.ogg)
+
+### Another August
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//another-august.zip) (7.9MB, mp3 1개)
+- 제작: ogremagisclinkz / 라이선스: CC0 / 원본: https://opengameart.org/content/another-august
+- 듣기 샘플: [another-august-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//another-august-sample.ogg)
+
+### Children's March Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//childrens-march-theme.zip) (15.4MB, wav 1개 · ogg 1개 · mp3 1개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/childrens-march-theme
+
+### 8 bit battle theme (famitracker)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-battle-theme-famitracker.zip) (5.9MB, wav 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-battle-theme-famitracker
+- 듣기 샘플: [8-bit-battle-theme-famitracker-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-bit-battle-theme-famitracker-sample.ogg)
+
+### Great Boss
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//great-boss.zip) (2.7MB, ogg 1개)
+- 제작: Pro Sensory / 라이선스: CC0 / 원본: https://opengameart.org/content/great-boss
+- 듣기 샘플: [great-boss-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//great-boss-sample.ogg)
+
+### It Takes A Hero
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//it-takes-a-hero.zip) (55.0MB, wav 1개)
+- 제작: Mjorlaja / 라이선스: CC0 / 원본: https://opengameart.org/content/it-takes-a-hero
+- 듣기 샘플: [it-takes-a-hero-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//it-takes-a-hero-sample.ogg)
+
+### Up (3x)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//up-3x.zip) (574KB, wav 3개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/up-3x
+- 듣기 샘플: [up-3x-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//up-3x-sample.ogg)
+
+### Rain (loopable)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//rain-loopable.zip) (5.9MB, mp3 4개 · ogg 4개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/rain-loopable
+- 듣기 샘플: [rain-loopable-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//rain-loopable-sample.ogg)
+
+### Teleport Spell
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//teleport-spell.zip) (242KB, wav 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/teleport-spell
+- 듣기 샘플: [teleport-spell-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//teleport-spell-sample.ogg)
+
+### Ticking clock.
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ticking-clock.zip) (2.8MB, wav 5개)
+- 제작: XilliX / 라이선스: CC0 / 원본: https://opengameart.org/content/ticking-clock
+
+### Crickets Ambient Noise - loopable
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//crickets-ambient-noise-loopable.zip) (182KB, mp3 1개)
+- 제작: 2DPIXX / 라이선스: CC0 / 원본: https://opengameart.org/content/crickets-ambient-noise-loopable
+- 듣기 샘플: [crickets-ambient-noise-loopable-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//crickets-ambient-noise-loopable-sample.ogg)
+
+### Zippo click sound
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//zippo-click-sound.zip) (2KB, flac 1개)
+- 제작: LitmusDragon / 라이선스: CC0 / 원본: https://opengameart.org/content/zippo-click-sound
+
+### Space Laser
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-laser.zip) (807KB, wav 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/space-laser
+- 듣기 샘플: [space-laser-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-laser-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
