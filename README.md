@@ -1430,6 +1430,74 @@
 - 제작: number99 / 라이선스: CC0 / 원본: https://opengameart.org/content/60-cc0-sci-fi-sfx
 - 듣기 샘플: [60-cc0-sci-fi-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//60-cc0-sci-fi-sfx-sample.ogg)
 
+### Rock theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//rock-theme.zip) (2.7MB, mp3 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/rock-theme
+- 듣기 샘플: [rock-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//rock-theme-sample.ogg)
+
+### Two Left Socks
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//two-left-socks.zip) (4.6MB, ogg 1개)
+- 제작: Umplix / 라이선스: CC0 / 원본: https://opengameart.org/content/two-left-socks
+- 듣기 샘플: [two-left-socks-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//two-left-socks-sample.ogg)
+
+### Horror Loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//horror-loop.zip) (2.8MB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/horror-loop
+- 듣기 샘플: [horror-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//horror-loop-sample.ogg)
+
+### Icy Heights
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//icy-heights.zip) (1.6MB, ogg 2개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/icy-heights
+- 듣기 샘플: [icy-heights-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//icy-heights-sample.ogg)
+
+### Eastern Arctic Dubstep
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//eastern-arctic-dubstep.zip) (11.0MB, mp3 1개)
+- 제작: Bobjt / 라이선스: CC0 / 원본: https://opengameart.org/content/eastern-arctic-dubstep
+- 듣기 샘플: [eastern-arctic-dubstep-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//eastern-arctic-dubstep-sample.ogg)
+
+### Party Sector
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//party-sector.zip) (1.9MB, mp3 1개)
+- 제작: Kemono / 라이선스: CC0 / 원본: https://opengameart.org/content/party-sector
+- 듣기 샘플: [party-sector-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//party-sector-sample.ogg)
+
+### Spaghetti Western
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//spaghetti-western.zip) (3.0MB, ogg 1개)
+- 제작: isaiah658 / 라이선스: CC0 / 원본: https://opengameart.org/content/spaghetti-western
+- 듣기 샘플: [spaghetti-western-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//spaghetti-western-sample.ogg)
+
+### SFX: The Ultimate 2017 8 bit Mini pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sfx-the-ultimate-2017-8-bit-mini-pack.zip) (3.6MB, wav 210개 · ogg 210개 · png 1개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/sfx-the-ultimate-2017-8-bit-mini-pack
+
+### 3 Pop Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//3-pop-sounds.zip) (89KB, ogg 4개)
+- 제작: megaboots / 라이선스: CC0 / 원본: https://opengameart.org/content/3-pop-sounds
+- 듣기 샘플: [3-pop-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//3-pop-sounds-sample.ogg)
+
+### Space ship floating sounds(2)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-ship-floating-sounds2.zip) (1.5MB, mp3 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/space-ship-floating-sounds2
+- 듣기 샘플: [space-ship-floating-sounds2-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-ship-floating-sounds2-sample.ogg)
+
+### Win sound effect
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//win-sound-effect.zip) (355KB, wav 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/win-sound-effect
+- 듣기 샘플: [win-sound-effect-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//win-sound-effect-sample.ogg)
+
+### equipment clicks III
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//equipment-clicks-iii.zip) (1.1MB, wav 1개)
+- 제작: Jahalo dev / 라이선스: CC0 / 원본: https://opengameart.org/content/equipment-clicks-iii
+- 듣기 샘플: [equipment-clicks-iii-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//equipment-clicks-iii-sample.ogg)
+
+### Space Winds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-winds.zip) (732KB, mp3 1개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/space-winds
+- 듣기 샘플: [space-winds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-winds-sample.ogg)
+
+### Beep Tone Sound SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//beep-tone-sound-sfx.zip) (7KB, wav 1개)
+- 제작: kikchitov / 라이선스: CC0 / 원본: https://opengameart.org/content/beep-tone-sound-sfx
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
