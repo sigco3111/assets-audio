@@ -730,6 +730,73 @@
 - 제작: StarNinjas / 라이선스: CC0 / 원본: https://opengameart.org/content/fireplace-sound-loop
 - 듣기 샘플: [fireplace-sound-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fireplace-sound-loop-sample.ogg)
 
+### Dark Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dark-theme.zip) (963KB, ogg 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-theme
+- 듣기 샘플: [dark-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dark-theme-sample.ogg)
+
+### November Snow
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//november-snow.zip) (13.5MB, mp3 1개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/november-snow
+- 듣기 샘플: [november-snow-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//november-snow-sample.ogg)
+
+### Atmospheric puzzles
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//atmospheric-puzzles.zip) (8.8MB, ogg 8개)
+- 제작: nosycat / 라이선스: CC0 / 원본: https://opengameart.org/content/atmospheric-puzzles
+- 듣기 샘플: [atmospheric-puzzles-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//atmospheric-puzzles-sample.ogg)
+
+### Battle Theme B for RPG
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-b-for-rpg.zip) (1.5MB, mp3 1개)
+- 제작: cynicmusic / 라이선스: CC0 / 원본: https://opengameart.org/content/battle-theme-b-for-rpg
+- 듣기 샘플: [battle-theme-b-for-rpg-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-b-for-rpg-sample.ogg)
+
+### JRPG Pack 2 Towns
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-2-towns.zip) (14.3MB, ogg 4개 · txt 1개)
+- 제작: Bobjt / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-pack-2-towns
+- 듣기 샘플: [jrpg-pack-2-towns-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-2-towns-sample.ogg)
+
+### Leap [8bit]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//leap-8bit.zip) (10.2MB, wav 1개)
+- 제작: Spring Spring / 라이선스: CC0 / 원본: https://opengameart.org/content/leap-8bit
+- 듣기 샘플: [leap-8bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//leap-8bit-sample.ogg)
+
+### Medieval: King's Feast
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//medieval-kings-feast.zip) (18.6MB, wav 1개 · mp3 1개 · jpg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-kings-feast
+- 듣기 샘플: [medieval-kings-feast-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//medieval-kings-feast-sample.ogg)
+
+### Click
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//click.zip) (5KB, wav 1개)
+- 제작: Jane_s / 라이선스: CC0 / 원본: https://opengameart.org/content/click
+
+### 75 CC0 breaking / falling / hit sfx
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//75-cc0-breaking-falling-hit-sfx.zip) (1.6MB, ogg 75개)
+- 제작: frances / 라이선스: CC0 / 원본: https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx
+- 듣기 샘플: [75-cc0-breaking-falling-hit-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//75-cc0-breaking-falling-hit-sfx-sample.ogg)
+
+### Ambient Bird Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ambient-bird-sounds.zip) (541KB, ogg 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/ambient-bird-sounds
+- 듣기 샘플: [ambient-bird-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ambient-bird-sounds-sample.ogg)
+
+### Superpowers assets sound effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//superpowers-assets-sound-effects.zip) (13.8MB, ogg 113개 · wav 73개 · txt 2개)
+- 제작: Chasersgaming / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-sound-effects
+
+### Fantasy Sound Effects (Tinysized SFX)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-sound-effects-tinysized-sfx.zip) (13.3MB, wav 96개 · ogg 1개 · txt 1개)
+- 제작: Jean Liu / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-sound-effects-tinysized-sfx
+- 듣기 샘플: [fantasy-sound-effects-tinysized-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-sound-effects-tinysized-sfx-sample.ogg)
+
+### 42 Snow and Gravel Footsteps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//42-snow-and-gravel-footsteps.zip) (4.0MB, flac 42개 · txt 1개)
+- 제작: Emerald Eel Ent... / 라이선스: CC0 / 원본: https://opengameart.org/content/42-snow-and-gravel-footsteps
+- 듣기 샘플: [42-snow-and-gravel-footsteps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//42-snow-and-gravel-footsteps-sample.ogg)
+
+### 50 CC0 Sci-Fi SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//50-cc0-sci-fi-sfx.zip) (2.4MB, ogg 50개)
+- 제작: VividLegends / 라이선스: CC0 / 원본: https://opengameart.org/content/50-cc0-sci-fi-sfx
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
