@@ -1645,6 +1645,79 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-sfx.zip) (429KB, wav 12개)
 - 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-sfx
 
+### Royalty free game music loops!
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//royalty-free-game-music-loops.zip) (73.5MB, wav 33개)
+- 제작: Jblade35 / 라이선스: CC0 / 원본: https://opengameart.org/content/royalty-free-game-music-loops
+- 듣기 샘플: [royalty-free-game-music-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//royalty-free-game-music-loops-sample.ogg)
+
+### 8-bit Danger!! Strong Boss
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-danger-strong-boss.zip) (5.3MB, mp3 1개)
+- 제작: jigoku / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-danger-strong-boss
+- 듣기 샘플: [8-bit-danger-strong-boss-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-bit-danger-strong-boss-sample.ogg)
+
+### MonsterVania - Ghost Land
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//monstervania-ghost-land.zip) (2.2MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/monstervania-ghost-land
+- 듣기 샘플: [monstervania-ghost-land-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//monstervania-ghost-land-sample.ogg)
+
+### Calm Ambient 3 (Lifewave 2k)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//calm-ambient-3-lifewave-2k.zip) (7.1MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/calm-ambient-3-lifewave-2k
+- 듣기 샘플: [calm-ambient-3-lifewave-2k-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//calm-ambient-3-lifewave-2k-sample.ogg)
+
+### Dream Ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dream-ambience.zip) (2.4MB, mp3 1개)
+- 제작: KumoKairo / 라이선스: CC0 / 원본: https://opengameart.org/content/dream-ambience
+- 듣기 샘플: [dream-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dream-ambience-sample.ogg)
+
+### Contemplation
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//contemplation-0.zip) (2.3MB, mp3 1개)
+- 제작: Pro Sensory / 라이선스: CC0 / 원본: https://opengameart.org/content/contemplation-0
+- 듣기 샘플: [contemplation-0-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//contemplation-0-sample.ogg)
+
+### Space Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-music.zip) (6.2MB, wav 1개)
+- 제작: MetaShinryu / 라이선스: CC0 / 원본: https://opengameart.org/content/space-music
+- 듣기 샘플: [space-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-music-sample.ogg)
+
+### Free NES Music Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//free-nes-music-pack.zip) (51.6MB, wav 11개 · txt 1개)
+- 제작: Spring Spring / 라이선스: CC0 / 원본: https://opengameart.org/content/free-nes-music-pack
+- 듣기 샘플: [free-nes-music-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//free-nes-music-pack-sample.ogg)
+
+### 2 dice roll (29 throws)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//2-dice-roll-29-throws.zip) (2.3MB, wav 29개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/2-dice-roll-29-throws
+- 듣기 샘플: [2-dice-roll-29-throws-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//2-dice-roll-29-throws-sample.ogg)
+
+### Retro Shooter Sound Effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//retro-shooter-sound-effects.zip) (231KB, mp3 9개)
+- 제작: Luca Pixel / 라이선스: CC0 / 원본: https://opengameart.org/content/retro-shooter-sound-effects
+
+### Hit sound bitcrush
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//hit-sound-bitcrush.zip) (45KB, wav 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/hit-sound-bitcrush
+- 듣기 샘플: [hit-sound-bitcrush-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//hit-sound-bitcrush-sample.ogg)
+
+### Robot
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//robot-1.zip) (20KB, mp3 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/robot-1
+- 듣기 샘플: [robot-1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//robot-1-sample.ogg)
+
+### 33 metal clang sounds from cast iron pans
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//33-metal-clang-sounds-cast-iron-pans.zip) (7.1MB, wav 33개)
+- 제작: Vertigon / 라이선스: CC0 / 원본: https://opengameart.org/content/33-metal-clang-sounds-cast-iron-pans
+- 듣기 샘플: [33-metal-clang-sounds-cast-iron-pans-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//33-metal-clang-sounds-cast-iron-pans-sample.ogg)
+
+### Game Over - Bad chest SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//game-over-bad-chest-sfx.zip) (735KB, wav 1개)
+- 제작: Felis Chaus / 라이선스: CC0 / 원본: https://opengameart.org/content/game-over-bad-chest-sfx
+- 듣기 샘플: [game-over-bad-chest-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//game-over-bad-chest-sfx-sample.ogg)
+
+### Catching fire
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//catching-fire.zip) (7KB, ogg 1개)
+- 제작: frances / 라이선스: CC0 / 원본: https://opengameart.org/content/catching-fire
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
