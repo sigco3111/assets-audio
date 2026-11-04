@@ -997,6 +997,77 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//oldschool-win-and-die-jump-and-run-sounds.zip) (96KB, wav 2개)
 - 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/oldschool-win-and-die-jump-and-run-sounds
 
+### Etirwer
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//etirwer.zip) (1.9MB, ogg 1개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/etirwer
+- 듣기 샘플: [etirwer-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//etirwer-sample.ogg)
+
+### Meadow Thoughts
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//meadow-thoughts.zip) (2.2MB, ogg 1개)
+- 제작: mishonis / 라이선스: CC0 / 원본: https://opengameart.org/content/meadow-thoughts
+- 듣기 샘플: [meadow-thoughts-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//meadow-thoughts-sample.ogg)
+
+### Victory
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//victory.zip) (357KB, wav 1개 · mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/victory
+- 듣기 샘플: [victory-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//victory-sample.ogg)
+
+### Nautilus
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//nautilus.zip) (8.4MB, mp3 1개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/nautilus
+- 듣기 샘플: [nautilus-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//nautilus-sample.ogg)
+
+### Dark Shrine Loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dark-shrine-loop.zip) (4.5MB, flac 1개 · mp3 1개 · ogg 1개)
+- 제작: yd / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-shrine-loop
+- 듣기 샘플: [dark-shrine-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dark-shrine-loop-sample.ogg)
+
+### Fantasy: Rising Moon
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-rising-moon.zip) (5.5MB, mp3 1개 · jpg 1개)
+- 제작: kicknbrit / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-rising-moon
+- 듣기 샘플: [fantasy-rising-moon-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-rising-moon-sample.ogg)
+
+### Boss Battle #3 [8-bit re-upload]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-3-8-bit-re-upload.zip) (69.1MB, wav 3개)
+- 제작: frances / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-3-8-bit-re-upload
+- 듣기 샘플: [boss-battle-3-8-bit-re-upload-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-3-8-bit-re-upload-sample.ogg)
+
+### Wood and Metal Sound Effects: Volume 2
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wood-and-metal-sound-effects-volume-2.zip) (1.2MB, aif 26개)
+- 제작: NoirPhantom89 / 라이선스: CC0 / 원본: https://opengameart.org/content/wood-and-metal-sound-effects-volume-2
+
+### Punch
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//punch.zip) (214KB, flac 5개 · ogg 5개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/punch
+
+### Explosion
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//explosion-0.zip) (46KB, wav 1개)
+- 제작: number99 / 라이선스: CC0 / 원본: https://opengameart.org/content/explosion-0
+- 듣기 샘플: [explosion-0-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//explosion-0-sample.ogg)
+
+### Short wind sound
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//short-wind-sound.zip) (196KB, wav 1개)
+- 제작: Nukaze / 라이선스: CC0 / 원본: https://opengameart.org/content/short-wind-sound
+- 듣기 샘플: [short-wind-sound-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//short-wind-sound-sample.ogg)
+
+### Sci-Fi Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sci-fi-sounds.zip) (5.9MB, ogg 73개 · txt 1개)
+- 제작: FiveBrosStopMosYT / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-sounds
+- 듣기 샘플: [sci-fi-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sci-fi-sounds-sample.ogg)
+
+### Metal Interactions
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//metal-interactions.zip) (214KB, wav 5개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/metal-interactions
+- 듣기 샘플: [metal-interactions-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//metal-interactions-sample.ogg)
+
+### 8-Bit Sound Effect Pack (Vol. 001)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-sound-effect-pack-vol-001.zip) (2.3MB, wav 46개 · mp3 1개 · txt 1개 · png 1개)
+- 제작: MhmdGH / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-sound-effect-pack-vol-001
+
+### 8bit Menu Highlight
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-menu-highlight.zip) (21KB, wav 1개 · ogg 1개)
+- 제작: Majadroid / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-menu-highlight
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
