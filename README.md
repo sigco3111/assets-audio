@@ -1068,6 +1068,80 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-menu-highlight.zip) (21KB, wav 1개 · ogg 1개)
 - 제작: Majadroid / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-menu-highlight
 
+### moon chime
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//moon-chime.zip) (10.6MB, mp3 2개)
+- 제작: Chasersgaming / 라이선스: CC0 / 원본: https://opengameart.org/content/moon-chime
+- 듣기 샘플: [moon-chime-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//moon-chime-sample.ogg)
+
+### Fantasy Orchestral Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-orchestral-theme.zip) (3.8MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-orchestral-theme
+- 듣기 샘플: [fantasy-orchestral-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-orchestral-theme-sample.ogg)
+
+### Love Song [instrumental]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//love-song-instrumental.zip) (33.6MB, wav 1개)
+- 제작: iftx1722 / 라이선스: CC0 / 원본: https://opengameart.org/content/love-song-instrumental
+- 듣기 샘플: [love-song-instrumental-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//love-song-instrumental-sample.ogg)
+
+### RPG Battle Theme II
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//rpg-battle-theme-ii.zip) (14.7MB, mp3 1개 · ogg 1개 · wav 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-battle-theme-ii
+- 듣기 샘플: [rpg-battle-theme-ii-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//rpg-battle-theme-ii-sample.ogg)
+
+### Megasong
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//megasong.zip) (5.3MB, mp3 1개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/megasong
+- 듣기 샘플: [megasong-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//megasong-sample.ogg)
+
+### Pulsar [Famitracker 2A03]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//pulsar-famitracker-2a03.zip) (2.2MB, wav 1개)
+- 제작: Hitctrl / 라이선스: CC0 / 원본: https://opengameart.org/content/pulsar-famitracker-2a03
+- 듣기 샘플: [pulsar-famitracker-2a03-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//pulsar-famitracker-2a03-sample.ogg)
+
+### Winning the Race
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//winning-the-race.zip) (2.7MB, ogg 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/winning-the-race
+- 듣기 샘플: [winning-the-race-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//winning-the-race-sample.ogg)
+
+### Equipment Clicks II
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//equipment-clicks-ii.zip) (233KB, wav 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/equipment-clicks-ii
+- 듣기 샘플: [equipment-clicks-ii-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//equipment-clicks-ii-sample.ogg)
+
+### 20 Rustles of dry leaves
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//20-rustles-dry-leaves.zip) (10.4MB, flac 20개)
+- 제작: Creation Adventurer / 라이선스: CC0 / 원본: https://opengameart.org/content/20-rustles-dry-leaves
+- 듣기 샘플: [20-rustles-dry-leaves-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//20-rustles-dry-leaves-sample.ogg)
+
+### Crow caw
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//crow-caw.zip) (181KB, wav 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/crow-caw
+- 듣기 샘플: [crow-caw-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//crow-caw-sample.ogg)
+
+### boiling water loops
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boiling-water-loops.zip) (270KB, ogg 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/boiling-water-loops
+- 듣기 샘플: [boiling-water-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boiling-water-loops-sample.ogg)
+
+### 68 Workshop Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//68-workshop-sounds.zip) (33.6MB, wav 68개)
+- 제작: HaelDB / 라이선스: CC0 / 원본: https://opengameart.org/content/68-workshop-sounds
+- 듣기 샘플: [68-workshop-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//68-workshop-sounds-sample.ogg)
+
+### 7 Space Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//7-space-sounds.zip) (299KB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/7-space-sounds
+- 듣기 샘플: [7-space-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//7-space-sounds-sample.ogg)
+
+### 20 Sword Sound Effects (Attacks and Clashes)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//20-sword-sound-effects-attacks-and-clashes.zip) (294KB, ogg 20개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/20-sword-sound-effects-attacks-and-clashes
+- 듣기 샘플: [20-sword-sound-effects-attacks-and-clashes-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//20-sword-sound-effects-attacks-and-clashes-sample.ogg)
+
+### 8bit Menu Select
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8bit-menu-select.zip) (33KB, ogg 1개 · wav 1개)
+- 제작: -Ryu- / 라이선스: CC0 / 원본: https://opengameart.org/content/8bit-menu-select
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
