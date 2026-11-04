@@ -445,6 +445,74 @@
 - 제작: Vladiedoo / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-sounds
 - 듣기 샘플: [ui-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ui-sounds-sample.ogg)
 
+### Magic Space
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//magic-space.zip) (2.2MB, mp3 1개)
+- 제작: Trippy / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-space
+- 듣기 샘플: [magic-space-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//magic-space-sample.ogg)
+
+### Space Music: Out There
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-music-out-there.zip) (3.8MB, ogg 1개)
+- 제작: kripken / 라이선스: CC0 / 원본: https://opengameart.org/content/space-music-out-there
+- 듣기 샘플: [space-music-out-there-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-music-out-there-sample.ogg)
+
+### Sirens in Darkness
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sirens-in-darkness.zip) (7.0MB, mp3 1개)
+- 제작: boundingBox / 라이선스: CC0 / 원본: https://opengameart.org/content/sirens-in-darkness
+- 듣기 샘플: [sirens-in-darkness-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sirens-in-darkness-sample.ogg)
+
+### 42 "Monster RPG 2" music tracks
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//42-monster-rpg-2-music-tracks.zip) (20.3MB, ogg 41개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/42-monster-rpg-2-music-tracks
+- 듣기 샘플: [42-monster-rpg-2-music-tracks-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//42-monster-rpg-2-music-tracks-sample.ogg)
+
+### Happy synths loop with slight christmas feeling
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//happy-synths-loop-with-slight-christmas-feeling.zip) (3.4MB, ogg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/happy-synths-loop-with-slight-christmas-feeling
+- 듣기 샘플: [happy-synths-loop-with-slight-christmas-feeling-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//happy-synths-loop-with-slight-christmas-feeling-sample.ogg)
+
+### Spacelife #14
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//spacelife-14.zip) (621KB, ogg 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/spacelife-14
+- 듣기 샘플: [spacelife-14-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//spacelife-14-sample.ogg)
+
+### Shrine
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//shrine.zip) (762KB, ogg 1개)
+- 제작: vestrel00 / 라이선스: CC0 / 원본: https://opengameart.org/content/shrine
+- 듣기 샘플: [shrine-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//shrine-sample.ogg)
+
+### Carnival Rides
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//carnival-rides.zip) (466KB, ogg 1개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/carnival-rides
+- 듣기 샘플: [carnival-rides-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//carnival-rides-sample.ogg)
+
+### Talking Cute (Chiptune)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//talking-cute-chiptune.zip) (3.6MB, mp3 1개)
+- 제작: josepharaoh99 / 라이선스: CC0 / 원본: https://opengameart.org/content/talking-cute-chiptune
+- 듣기 샘플: [talking-cute-chiptune-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//talking-cute-chiptune-sample.ogg)
+
+### Dark Ambiences
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dark-ambiences.zip) (3.1MB, wav 5개)
+- 제작: johndh / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-ambiences
+- 듣기 샘플: [dark-ambiences-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dark-ambiences-sample.ogg)
+
+### The Free Firearm Sound Library
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-free-firearm-sound-library.zip) (228.6MB, wav 56개)
+- 제작: Ylmir / 라이선스: CC0 / 원본: https://opengameart.org/content/the-free-firearm-sound-library
+- 듣기 샘플: [the-free-firearm-sound-library-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-free-firearm-sound-library-sample.ogg)
+
+### 50 CC0 retro / synth SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//50-cc0-retro-synth-sfx.zip) (1.9MB, ogg 50개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/50-cc0-retro-synth-sfx
+
+### 2 wooden squish splatter sequences
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//2-wooden-squish-splatter-sequences.zip) (821KB, flac 2개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/2-wooden-squish-splatter-sequences
+- 듣기 샘플: [2-wooden-squish-splatter-sequences-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//2-wooden-squish-splatter-sequences-sample.ogg)
+
+### 85 Short music jingles
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//85-short-music-jingles.zip) (1.1MB, ogg 85개 · txt 1개)
+- 제작: fluffrabbit / 라이선스: CC0 / 원본: https://opengameart.org/content/85-short-music-jingles
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
