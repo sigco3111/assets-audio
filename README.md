@@ -29,6 +29,170 @@
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/digital-audio
 - 듣기 샘플: [digitalaudio_preview.ogg](previews/digitalaudio_preview.ogg) (raw 링크: https://raw.githubusercontent.com/sigco3111/assets-audio/main/previews/digitalaudio_preview.ogg)
 
+### RPG Sound Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//rpg-sound-pack.zip) (12.5MB, wav 96개)
+- 제작: HaelDB / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-sound-pack
+- 듣기 샘플: [rpg-sound-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//rpg-sound-pack-sample.ogg)
+
+### 512 Sound Effects (8-bit style)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//512-sound-effects-8-bit-style.zip) (20.7MB, wav 512개 · txt 1개)
+- 제작: DezrasDragons / 라이선스: CC0 / 원본: https://opengameart.org/content/512-sound-effects-8-bit-style
+- 듣기 샘플: [512-sound-effects-8-bit-style-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//512-sound-effects-8-bit-style-sample.ogg)
+
+### 50 RPG sound effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//50-rpg-sound-effects.zip) (692KB, ogg 51개 · txt 1개)
+- 제작: LunaVR / 라이선스: CC0 / 원본: https://opengameart.org/content/50-rpg-sound-effects
+
+### 51 UI sound effects (buttons, switches and clicks)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//51-ui-sound-effects-buttons-switches-and-clicks.zip) (1.4MB, wav 51개 · txt 1개)
+- 제작: gopherapps / 라이선스: CC0 / 원본: https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
+
+### Different steps on wood, stone, leaves, gravel and mud
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//different-steps-on-wood-stone-leaves-gravel-and-mud.zip) (78KB, ogg 8개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+- 듣기 샘플: [different-steps-on-wood-stone-leaves-gravel-and-mud-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//different-steps-on-wood-stone-leaves-gravel-and-mud-sample.ogg)
+
+### 5 Chiptunes (Action)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//5-chiptunes-action.zip) (49.7MB, wav 5개 · txt 1개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/5-chiptunes-action
+- 듣기 샘플: [5-chiptunes-action-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//5-chiptunes-action-sample.ogg)
+
+### Battle Theme A
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-a.zip) (3.1MB, mp3 1개)
+- 제작: JaidynReiman / 라이선스: CC0 / 원본: https://opengameart.org/content/battle-theme-a
+- 듣기 샘플: [battle-theme-a-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//battle-theme-a-sample.ogg)
+
+### Town Theme RPG
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//town-theme-rpg.zip) (1.3MB, mp3 1개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/town-theme-rpg
+- 듣기 샘플: [town-theme-rpg-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//town-theme-rpg-sample.ogg)
+
+### Free Music Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//free-music-pack.zip) (31.6MB, mp3 7개 · png 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/free-music-pack
+- 듣기 샘플: [free-music-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//free-music-pack-sample.ogg)
+
+### NES Shooter Music (5 tracks, 3 jingles)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//nes-shooter-music-5-tracks-3-jingles.zip) (18.1MB, wav 10개)
+- 제작: Chris_M_The_Gam... / 라이선스: CC0 / 원본: https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
+- 듣기 샘플: [nes-shooter-music-5-tracks-3-jingles-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//nes-shooter-music-5-tracks-3-jingles-sample.ogg)
+
+### Menu Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//menu-music.zip) (7.5MB, wav 1개)
+- 제작: Tempel / 라이선스: CC0 / 원본: https://opengameart.org/content/menu-music
+- 듣기 샘플: [menu-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//menu-music-sample.ogg)
+
+### Crystal Cave (song18)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//crystal-cave-song18.zip) (529KB, mp3 1개)
+- 제작: messersm / 라이선스: CC0 / 원본: https://opengameart.org/content/crystal-cave-song18
+- 듣기 샘플: [crystal-cave-song18-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//crystal-cave-song18-sample.ogg)
+
+### Loading screen loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//loading-screen-loop.zip) (7.2MB, wav 2개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/loading-screen-loop
+- 듣기 샘플: [loading-screen-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//loading-screen-loop-sample.ogg)
+
+### The Field Of Dreams
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//the-field-of-dreams.zip) (3.3MB, mp3 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/the-field-of-dreams
+- 듣기 샘플: [the-field-of-dreams-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//the-field-of-dreams-sample.ogg)
+
+### Cyberpunk Moonlight Sonata
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//cyberpunk-moonlight-sonata.zip) (4.6MB, mp3 2개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/cyberpunk-moonlight-sonata
+- 듣기 샘플: [cyberpunk-moonlight-sonata-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//cyberpunk-moonlight-sonata-sample.ogg)
+
+### Another space background track
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//another-space-background-track.zip) (786KB, ogg 1개)
+- 제작: StumpyStrust / 라이선스: CC0 / 원본: https://opengameart.org/content/another-space-background-track
+- 듣기 샘플: [another-space-background-track-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//another-space-background-track-sample.ogg)
+
+### 10 8bit coin sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//10-8bit-coin-sounds.zip) (207KB, wav 10개)
+- 제작: megaboots / 라이선스: CC0 / 원본: https://opengameart.org/content/10-8bit-coin-sounds
+
+### Swish - bamboo stick weapon swhoshes
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//swish-bamboo-stick-weapon-swhoshes.zip) (4.8MB, flac 43개 · txt 1개)
+- 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/swish-bamboo-stick-weapon-swhoshes
+
+### 63 Digital sound effects (lasers, phasers, space etc.)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//63-digital-sound-effects-lasers-phasers-space-etc.zip) (1.1MB, mp3 62개 · txt 1개)
+- 제작: smoke_th / 라이선스: CC0 / 원본: https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc
+
+### GUI Sound Effects
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//gui-sound-effects.zip) (2.7MB, wav 13개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-sound-effects
+
+### 37 hits/punches
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//37-hitspunches.zip) (1.7MB, flac 37개)
+- 제작: supergamez2014 / 라이선스: CC0 / 원본: https://opengameart.org/content/37-hitspunches
+- 듣기 샘플: [37-hitspunches-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//37-hitspunches-sample.ogg)
+
+### 4 Chiptunes (Adventure)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//4-chiptunes-adventure.zip) (40.3MB, ogg 4개 · wav 4개 · txt 1개)
+- 제작: ericdl / 라이선스: CC0 / 원본: https://opengameart.org/content/4-chiptunes-adventure
+- 듣기 샘플: [4-chiptunes-adventure-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//4-chiptunes-adventure-sample.ogg)
+
+### Bossa Nova
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//bossa-nova.zip) (1.2MB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/bossa-nova
+- 듣기 샘플: [bossa-nova-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//bossa-nova-sample.ogg)
+
+### rain and thunders
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//rain-and-thunders.zip) (6.7MB, ogg 1개)
+- 제작: mikhog / 라이선스: CC0 / 원본: https://opengameart.org/content/rain-and-thunders
+- 듣기 샘플: [rain-and-thunders-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//rain-and-thunders-sample.ogg)
+
+### Enchanted Tiki 86
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//enchanted-tiki-86.zip) (3.7MB, mp3 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/enchanted-tiki-86
+- 듣기 샘플: [enchanted-tiki-86-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//enchanted-tiki-86-sample.ogg)
+
+### Fast fight / battle music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fast-fight-battle-music.zip) (5.1MB, ogg 1개 · wav 1개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/fast-fight-battle-music
+- 듣기 샘플: [fast-fight-battle-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fast-fight-battle-music-sample.ogg)
+
+### Background space track
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//background-space-track.zip) (4.2MB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/background-space-track
+- 듣기 샘플: [background-space-track-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//background-space-track-sample.ogg)
+
+### Next to You
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//next-to-you.zip) (1.6MB, mp3 1개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/next-to-you
+- 듣기 샘플: [next-to-you-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//next-to-you-sample.ogg)
+
+### Snowfall
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//snowfall.zip) (1.9MB, ogg 2개)
+- 제작: Casimir / 라이선스: CC0 / 원본: https://opengameart.org/content/snowfall
+- 듣기 샘플: [snowfall-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//snowfall-sample.ogg)
+
+### Boss Battle Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-music.zip) (21.6MB, wav 1개)
+- 제작: KaadmY / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-music
+- 듣기 샘플: [boss-battle-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-music-sample.ogg)
+
+### Awake! (Megawall-10)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//awake-megawall-10.zip) (2.0MB, mp3 1개)
+- 제작: Footinthebox / 라이선스: CC0 / 원본: https://opengameart.org/content/awake-megawall-10
+- 듣기 샘플: [awake-megawall-10-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//awake-megawall-10-sample.ogg)
+
+### Atmospheric Interaction Sound Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//atmospheric-interaction-sound-pack.zip) (10.7MB, wav 43개)
+- 제작: ViRiX / 라이선스: CC0 / 원본: https://opengameart.org/content/atmospheric-interaction-sound-pack
+- 듣기 샘플: [atmospheric-interaction-sound-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//atmospheric-interaction-sound-pack-sample.ogg)
+
+### 54 Casino sound effects (cards, dice, chips)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//54-casino-sound-effects-cards-dice-chips.zip) (878KB, ogg 55개 · txt 1개)
+- 제작: hc / 라이선스: CC0 / 원본: https://opengameart.org/content/54-casino-sound-effects-cards-dice-chips
+- 듣기 샘플: [54-casino-sound-effects-cards-dice-chips-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//54-casino-sound-effects-cards-dice-chips-sample.ogg)
+
+### Level up, power up, Coin get (13 Sounds)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//level-up-power-up-coin-get-13-sounds.zip) (6.8MB, aif 13개)
+- 제작: joaquinton / 라이선스: CC0 / 원본: https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+- 듣기 샘플: [level-up-power-up-coin-get-13-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//level-up-power-up-coin-get-13-sounds-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
