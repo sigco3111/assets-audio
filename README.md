@@ -1718,6 +1718,81 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//catching-fire.zip) (7KB, ogg 1개)
 - 제작: frances / 라이선스: CC0 / 원본: https://opengameart.org/content/catching-fire
 
+### Emotional Deluge
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//emotional-deluge.zip) (803KB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/emotional-deluge
+- 듣기 샘플: [emotional-deluge-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//emotional-deluge-sample.ogg)
+
+### War on Water: Tracks
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//war-on-water-tracks.zip) (5.3MB, ogg 5개)
+- 제작: dragonseb71 / 라이선스: CC0 / 원본: https://opengameart.org/content/war-on-water-tracks
+- 듣기 샘플: [war-on-water-tracks-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//war-on-water-tracks-sample.ogg)
+
+### Green Hills
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//green-hills.zip) (3.3MB, mp3 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/green-hills
+- 듣기 샘플: [green-hills-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//green-hills-sample.ogg)
+
+### A Wonderful Nightmare (Chiptune version)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//a-wonderful-nightmare-chiptune-version.zip) (4.8MB, ogg 1개)
+- 제작: HR78 / 라이선스: CC0 / 원본: https://opengameart.org/content/a-wonderful-nightmare-chiptune-version
+- 듣기 샘플: [a-wonderful-nightmare-chiptune-version-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//a-wonderful-nightmare-chiptune-version-sample.ogg)
+
+### Superpowers assets music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//superpowers-assets-music.zip) (57.9MB, ogg 64개 · txt 4개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-music
+- 듣기 샘플: [superpowers-assets-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//superpowers-assets-music-sample.ogg)
+
+### Mirror Lake
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//mirror-lake.zip) (978KB, mp3 1개)
+- 제작: Bobjt / 라이선스: CC0 / 원본: https://opengameart.org/content/mirror-lake
+- 듣기 샘플: [mirror-lake-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//mirror-lake-sample.ogg)
+
+### 8-bit - Slay The Evil
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//8-bit-slay-the-evil.zip) (4.7MB, ogg 1개)
+- 제작: Fry / 라이선스: CC0 / 원본: https://opengameart.org/content/8-bit-slay-the-evil
+- 듣기 샘플: [8-bit-slay-the-evil-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//8-bit-slay-the-evil-sample.ogg)
+
+### Extradimensional Portalhopping - Day 23
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//extradimensional-portalhopping-day-23.zip) (28.3MB, wav 1개)
+- 제작: Spring Spring / 라이선스: CC0 / 원본: https://opengameart.org/content/extradimensional-portalhopping-day-23
+- 듣기 샘플: [extradimensional-portalhopping-day-23-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//extradimensional-portalhopping-day-23-sample.ogg)
+
+### Fantasy Weapons and Apparel SFX Library
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-weapons-and-apparel-sfx-library.zip) (12.7MB, wav 126개 · ogg 1개 · txt 1개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-weapons-and-apparel-sfx-library
+- 듣기 샘플: [fantasy-weapons-and-apparel-sfx-library-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-weapons-and-apparel-sfx-library-sample.ogg)
+
+### Fantasy Accessory SFX Library
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fantasy-accessory-sfx-library.zip) (14.6MB, wav 155개 · ogg 1개 · txt 1개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-accessory-sfx-library
+- 듣기 샘플: [fantasy-accessory-sfx-library-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fantasy-accessory-sfx-library-sample.ogg)
+
+### 30 weird CC0 SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//30-weird-cc0-sfx.zip) (895KB, ogg 30개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/30-weird-cc0-sfx
+- 듣기 샘플: [30-weird-cc0-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//30-weird-cc0-sfx-sample.ogg)
+
+### Horror SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//horror-sfx.zip) (6.3MB, wav 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/horror-sfx
+- 듣기 샘플: [horror-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//horror-sfx-sample.ogg)
+
+### Machine shutting down
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//machine-shutting-down.zip) (125KB, ogg 1개)
+- 제작: NegativeCharisma / 라이선스: CC0 / 원본: https://opengameart.org/content/machine-shutting-down
+- 듣기 샘플: [machine-shutting-down-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//machine-shutting-down-sample.ogg)
+
+### Arr!
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//arr.zip) (207KB, wav 1개)
+- 제작: HaelDB / 라이선스: CC0 / 원본: https://opengameart.org/content/arr
+- 듣기 샘플: [arr-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//arr-sample.ogg)
+
+### Gun reload sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//gun-reload-sounds.zip) (414KB, wav 3개)
+- 제작: Joaken / 라이선스: CC0 / 원본: https://opengameart.org/content/gun-reload-sounds
+- 듣기 샘플: [gun-reload-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//gun-reload-sounds-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
