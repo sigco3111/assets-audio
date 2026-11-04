@@ -797,6 +797,81 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//50-cc0-sci-fi-sfx.zip) (2.4MB, ogg 50개)
 - 제작: VividLegends / 라이선스: CC0 / 원본: https://opengameart.org/content/50-cc0-sci-fi-sfx
 
+### JRPG Pack 4 Calm
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-4-calm.zip) (13.3MB, ogg 6개 · txt 1개)
+- 제작: Yaotu / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-pack-4-calm
+- 듣기 샘플: [jrpg-pack-4-calm-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-4-calm-sample.ogg)
+
+### Icy Realm - (Seven and Eight)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//icy-realm-seven-and-eight.zip) (3.2MB, mp3 1개)
+- 제작: Lee Davis / 라이선스: CC0 / 원본: https://opengameart.org/content/icy-realm-seven-and-eight
+- 듣기 샘플: [icy-realm-seven-and-eight-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//icy-realm-seven-and-eight-sample.ogg)
+
+### Pressure
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//pressure.zip) (3.6MB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/pressure
+- 듣기 샘플: [pressure-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//pressure-sample.ogg)
+
+### Boss Battle #2 ["8 bit"]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-8-bit.zip) (5.7MB, wav 1개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-2-8-bit
+- 듣기 샘플: [boss-battle-2-8-bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-8-bit-sample.ogg)
+
+### Night of the Streets [Horror/Suspense]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//night-of-the-streets-horrorsuspense.zip) (3.2MB, mp3 1개)
+- 제작: User8329 / 라이선스: CC0 / 원본: https://opengameart.org/content/night-of-the-streets-horrorsuspense
+- 듣기 샘플: [night-of-the-streets-horrorsuspense-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//night-of-the-streets-horrorsuspense-sample.ogg)
+
+### Mysterious
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//mysterious.zip) (21.0MB, wav 1개)
+- 제작: SurrealEmber / 라이선스: CC0 / 원본: https://opengameart.org/content/mysterious
+- 듣기 샘플: [mysterious-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//mysterious-sample.ogg)
+
+### T & T Free Cyberpunk Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//t-t-free-cyberpunk-pack.zip) (111.9MB, ogg 9개 · png 1개)
+- 제작: Bobjt / 라이선스: CC0 / 원본: https://opengameart.org/content/t-t-free-cyberpunk-pack
+- 듣기 샘플: [t-t-free-cyberpunk-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//t-t-free-cyberpunk-pack-sample.ogg)
+
+### Beach Ocean Waves
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//beach-ocean-waves.zip) (2.0MB, flac 4개)
+- 제작: Four Bidden / 라이선스: CC0 / 원본: https://opengameart.org/content/beach-ocean-waves
+- 듣기 샘플: [beach-ocean-waves-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//beach-ocean-waves-sample.ogg)
+
+### Energy Drain
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//energy-drain.zip) (355KB, txt 1개 · ogg 1개 · flac 1개)
+- 제작: nosycat / 라이선스: CC0 / 원본: https://opengameart.org/content/energy-drain
+- 듣기 샘플: [energy-drain-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//energy-drain-sample.ogg)
+
+### Ghost breath
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ghost-breath.zip) (749KB, flac 1개)
+- 제작: Pixel Processor / 라이선스: CC0 / 원본: https://opengameart.org/content/ghost-breath
+- 듣기 샘플: [ghost-breath-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ghost-breath-sample.ogg)
+
+### Heartbeat (single sound)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//heartbeat-single-sound.zip) (58KB, flac 1개)
+- 제작: supergamez2014 / 라이선스: CC0 / 원본: https://opengameart.org/content/heartbeat-single-sound
+- 듣기 샘플: [heartbeat-single-sound-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//heartbeat-single-sound-sample.ogg)
+
+### 15 vocal male strain/hurt/pain/jump sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//15-vocal-male-strainhurtpainjump-sounds.zip) (1.4MB, flac 15개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds
+- 듣기 샘플: [15-vocal-male-strainhurtpainjump-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//15-vocal-male-strainhurtpainjump-sounds-sample.ogg)
+
+### Muffled Distant Explosion
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//muffled-distant-explosion.zip) (347KB, wav 1개)
+- 제작: Cokabear / 라이선스: CC0 / 원본: https://opengameart.org/content/muffled-distant-explosion
+- 듣기 샘플: [muffled-distant-explosion-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//muffled-distant-explosion-sample.ogg)
+
+### Ghost
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ghost.zip) (764KB, wav 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/ghost
+- 듣기 샘플: [ghost-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ghost-sample.ogg)
+
+### Female RPG Voice Starter Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//female-rpg-voice-starter-pack.zip) (8.8MB, wav 90개 · txt 1개)
+- 제작: Cethiel / 라이선스: CC0 / 원본: https://opengameart.org/content/female-rpg-voice-starter-pack
+- 듣기 샘플: [female-rpg-voice-starter-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//female-rpg-voice-starter-pack-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
