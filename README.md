@@ -929,6 +929,74 @@
 - 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/30-cc0-sfx-loops
 - 듣기 샘플: [30-cc0-sfx-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//30-cc0-sfx-loops-sample.ogg)
 
+### Dream 2 Ambience
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//dream-2-ambience.zip) (25.0MB, mp3 1개 · wav 1개 · ogg 1개)
+- 제작: fluffrabbit / 라이선스: CC0 / 원본: https://opengameart.org/content/dream-2-ambience
+- 듣기 샘플: [dream-2-ambience-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//dream-2-ambience-sample.ogg)
+
+### JRPG Pack 3 Evil
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-3-evil.zip) (12.6MB, ogg 5개 · txt 1개)
+- 제작: Joth / 라이선스: CC0 / 원본: https://opengameart.org/content/jrpg-pack-3-evil
+- 듣기 샘플: [jrpg-pack-3-evil-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//jrpg-pack-3-evil-sample.ogg)
+
+### Menace
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//menace.zip) (2.0MB, ogg 1개)
+- 제작: ETTiNGRiNDER / 라이선스: CC0 / 원본: https://opengameart.org/content/menace
+- 듣기 샘플: [menace-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//menace-sample.ogg)
+
+### Doodle menu like song
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//doodle-menu-like-song.zip) (2.3MB, mp3 1개)
+- 제작: Danimal / 라이선스: CC0 / 원본: https://opengameart.org/content/doodle-menu-like-song
+- 듣기 샘플: [doodle-menu-like-song-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//doodle-menu-like-song-sample.ogg)
+
+### Sadness
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sadness.zip) (428KB, ogg 1개)
+- 제작: zac428 / 라이선스: CC0 / 원본: https://opengameart.org/content/sadness
+- 듣기 샘플: [sadness-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sadness-sample.ogg)
+
+### Summer Park - 8bit tune (loop)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//summer-park-8bit-tune-loop.zip) (7.4MB, wav 1개 · ogg 1개 · mp3 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/summer-park-8bit-tune-loop
+- 듣기 샘플: [summer-park-8bit-tune-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//summer-park-8bit-tune-loop-sample.ogg)
+
+### Game Over Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//game-over-theme.zip) (6.1MB, wav 2개 · ogg 2개 · mp3 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/game-over-theme
+- 듣기 샘플: [game-over-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//game-over-theme-sample.ogg)
+
+### 25 CC0 bang / firework SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//25-cc0-bang-firework-sfx.zip) (1.4MB, ogg 25개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/25-cc0-bang-firework-sfx
+- 듣기 샘플: [25-cc0-bang-firework-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//25-cc0-bang-firework-sfx-sample.ogg)
+
+### 7 Assorted Sound Effects (Menu, Level Up)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//7-assorted-sound-effects-menu-level-up.zip) (625KB, mp3 8개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/7-assorted-sound-effects-menu-level-up
+- 듣기 샘플: [7-assorted-sound-effects-menu-level-up-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//7-assorted-sound-effects-menu-level-up-sample.ogg)
+
+### Fireball
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fireball-1.zip) (257KB, wav 1개)
+- 제작: WolfTech / 라이선스: CC0 / 원본: https://opengameart.org/content/fireball-1
+- 듣기 샘플: [fireball-1-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fireball-1-sample.ogg)
+
+### 5 break, crunch impacts
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//5-break-crunch-impacts.zip) (308KB, flac 5개)
+- 제작: supergamez2014 / 라이선스: CC0 / 원본: https://opengameart.org/content/5-break-crunch-impacts
+- 듣기 샘플: [5-break-crunch-impacts-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//5-break-crunch-impacts-sample.ogg)
+
+### 80 CC0 creture SFX #2
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//80-cc0-creture-sfx-2.zip) (1.9MB, ogg 80개)
+- 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/80-cc0-creture-sfx-2
+
+### Random SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//random-sfx.zip) (7.0MB, wav 54개)
+- 제작: arikel / 라이선스: CC0 / 원본: https://opengameart.org/content/random-sfx
+- 듣기 샘플: [random-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//random-sfx-sample.ogg)
+
+### Oldschool win and die jump and run sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//oldschool-win-and-die-jump-and-run-sounds.zip) (96KB, wav 2개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/oldschool-win-and-die-jump-and-run-sounds
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
