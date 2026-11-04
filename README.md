@@ -1498,6 +1498,76 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//beep-tone-sound-sfx.zip) (7KB, wav 1개)
 - 제작: kikchitov / 라이선스: CC0 / 원본: https://opengameart.org/content/beep-tone-sound-sfx
 
+### Opening Theme [Action/Suspense]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//opening-theme-actionsuspense.zip) (29.3MB, wav 2개)
+- 제작: IJustJordan / 라이선스: CC0 / 원본: https://opengameart.org/content/opening-theme-actionsuspense
+- 듣기 샘플: [opening-theme-actionsuspense-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//opening-theme-actionsuspense-sample.ogg)
+
+### Intro Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//intro-music-0.zip) (13.4MB, mp3 1개)
+- 제작: Looping Leaf / 라이선스: CC0 / 원본: https://opengameart.org/content/intro-music-0
+- 듣기 샘플: [intro-music-0-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//intro-music-0-sample.ogg)
+
+### New Sunrise
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//new-sunrise.zip) (271.8MB, wav 22개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/new-sunrise
+- 듣기 샘플: [new-sunrise-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//new-sunrise-sample.ogg)
+
+### Prologue Theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//prologue-theme.zip) (19.9MB, mp3 1개 · ogg 1개 · wav 1개)
+- 제작: Pro Sensory / 라이선스: CC0 / 원본: https://opengameart.org/content/prologue-theme
+- 듣기 샘플: [prologue-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//prologue-theme-sample.ogg)
+
+### Laments of the War
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//laments-of-the-war.zip) (35.3MB, flac 1개 · mp3 1개)
+- 제작: System G6 / 라이선스: CC0 / 원본: https://opengameart.org/content/laments-of-the-war
+- 듣기 샘플: [laments-of-the-war-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//laments-of-the-war-sample.ogg)
+
+### Calm Piano 1 (Vaporware)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//calm-piano-1-vaporware.zip) (6.4MB, mp3 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/calm-piano-1-vaporware
+- 듣기 샘플: [calm-piano-1-vaporware-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//calm-piano-1-vaporware-sample.ogg)
+
+### Hurt / Death sound effect for character
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//hurt-death-sound-effect-for-character.zip) (362KB, mp3 19개)
+- 제작: supermoneylife / 라이선스: CC0 / 원본: https://opengameart.org/content/hurt-death-sound-effect-for-character
+- 듣기 샘플: [hurt-death-sound-effect-for-character-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//hurt-death-sound-effect-for-character-sample.ogg)
+
+### racing car engine sound loops
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//racing-car-engine-sound-loops.zip) (352KB, wav 6개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/racing-car-engine-sound-loops
+- 듣기 샘플: [racing-car-engine-sound-loops-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//racing-car-engine-sound-loops-sample.ogg)
+
+### 5 Hit Sounds + Dying
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//5-hit-sounds-dying.zip) (27.0MB, ogg 6개 · mp3 6개)
+- 제작: alket / 라이선스: CC0 / 원본: https://opengameart.org/content/5-hit-sounds-dying
+- 듣기 샘플: [5-hit-sounds-dying-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//5-hit-sounds-dying-sample.ogg)
+
+### Big scary troll sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//big-scary-troll-sounds.zip) (527KB, ogg 3개)
+- 제작: System G6 / 라이선스: CC0 / 원본: https://opengameart.org/content/big-scary-troll-sounds
+- 듣기 샘플: [big-scary-troll-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//big-scary-troll-sounds-sample.ogg)
+
+### Book Flip Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//book-flip-sounds.zip) (3.9MB, wav 13개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/book-flip-sounds
+- 듣기 샘플: [book-flip-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//book-flip-sounds-sample.ogg)
+
+### Fire Crackling
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fire-crackling.zip) (219KB, wav 1개 · ogg 1개)
+- 제작: Stoner Games / 라이선스: CC0 / 원본: https://opengameart.org/content/fire-crackling
+- 듣기 샘플: [fire-crackling-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fire-crackling-sample.ogg)
+
+### Time Slow
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//time-slow.zip) (297KB, mp3 1개)
+- 제작: MidFag / 라이선스: CC0 / 원본: https://opengameart.org/content/time-slow
+- 듣기 샘플: [time-slow-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//time-slow-sample.ogg)
+
+### Laser weapon burst fire
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//laser-weapon-burst-fire.zip) (14KB, mp3 1개)
+- 제작: number99 / 라이선스: CC0 / 원본: https://opengameart.org/content/laser-weapon-burst-fire
+- 듣기 샘플: [laser-weapon-burst-fire-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//laser-weapon-burst-fire-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
