@@ -651,6 +651,85 @@
 - 제작: XilliX / 라이선스: CC0 / 원본: https://opengameart.org/content/steam-release-sounds
 - 듣기 샘플: [steam-release-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//steam-release-sounds-sample.ogg)
 
+### Lonelyhood
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//lonelyhood.zip) (2.1MB, ogg 1개)
+- 제작: Bingoman / 라이선스: CC0 / 원본: https://opengameart.org/content/lonelyhood
+- 듣기 샘플: [lonelyhood-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//lonelyhood-sample.ogg)
+
+### Sad orchestral theme
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sad-orchestral-theme.zip) (103.5MB, wav 1개)
+- 제작: AlaNDGT / 라이선스: CC0 / 원본: https://opengameart.org/content/sad-orchestral-theme
+- 듣기 샘플: [sad-orchestral-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//sad-orchestral-theme-sample.ogg)
+
+### Theme Song [8-bit]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//theme-song-8-bit.zip) (12.9MB, wav 2개)
+- 제작: GamerYouTubik / 라이선스: CC0 / 원본: https://opengameart.org/content/theme-song-8-bit
+- 듣기 샘플: [theme-song-8-bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//theme-song-8-bit-sample.ogg)
+
+### Happy Adventure (Loop)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//happy-adventure-loop.zip) (626KB, mp3 1개)
+- 제작: fluffrabbit / 라이선스: CC0 / 원본: https://opengameart.org/content/happy-adventure-loop
+- 듣기 샘플: [happy-adventure-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//happy-adventure-loop-sample.ogg)
+
+### EmptyCity: Background Music
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//emptycity-background-music.zip) (1.6MB, ogg 1개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/emptycity-background-music
+- 듣기 샘플: [emptycity-background-music-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//emptycity-background-music-sample.ogg)
+
+### Ambience Pack 1 -- Sci Fi Horror
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//ambience-pack-1-sci-fi-horror.zip) (5.5MB, mp3 5개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/ambience-pack-1-sci-fi-horror
+- 듣기 샘플: [ambience-pack-1-sci-fi-horror-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//ambience-pack-1-sci-fi-horror-sample.ogg)
+
+### A New Town (RPG Theme)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//a-new-town-rpg-theme.zip) (757KB, mp3 1개)
+- 제작: Flixberry Enter... / 라이선스: CC0 / 원본: https://opengameart.org/content/a-new-town-rpg-theme
+- 듣기 샘플: [a-new-town-rpg-theme-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//a-new-town-rpg-theme-sample.ogg)
+
+### lofi Compilation
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//lofi-compilation.zip) (25.7MB, mp3 9개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/lofi-compilation
+- 듣기 샘플: [lofi-compilation-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//lofi-compilation-sample.ogg)
+
+### Monster Sound Effects Pack
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-effects-pack.zip) (1.4MB, wav 10개)
+- 제작: yart123 / 라이선스: CC0 / 원본: https://opengameart.org/content/monster-sound-effects-pack
+- 듣기 샘플: [monster-sound-effects-pack-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//monster-sound-effects-pack-sample.ogg)
+
+### Synthesized explosion
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//synthesized-explosion.zip) (165KB, flac 1개)
+- 제작: megaboots / 라이선스: CC0 / 원본: https://opengameart.org/content/synthesized-explosion
+- 듣기 샘플: [synthesized-explosion-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//synthesized-explosion-sample.ogg)
+
+### Freeze Spell
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//freeze-spell-0.zip) (557KB, wav 1개)
+- 제작: StarNinjas / 라이선스: CC0 / 원본: https://opengameart.org/content/freeze-spell-0
+- 듣기 샘플: [freeze-spell-0-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//freeze-spell-0-sample.ogg)
+
+### Magic Spell SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//magic-spell-sfx.zip) (348KB, ogg 7개)
+- 제작: Arcanorum / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-spell-sfx
+- 듣기 샘플: [magic-spell-sfx-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//magic-spell-sfx-sample.ogg)
+
+### Space Ship Shield Sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//space-ship-shield-sounds.zip) (1.6MB, wav 9개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/space-ship-shield-sounds
+
+### Platformer Sounds: Terminal, Interaction, Door, Shots, Bang and Footsteps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps.zip) (172KB, ogg 12개 · txt 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps
+- 듣기 샘플: [platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps-sample.ogg)
+
+### Voiceover Pack: Fighter (40+ taunts)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//voiceover-pack-fighter-40-taunts.zip) (1.3MB, ogg 47개 · txt 1개)
+- 제작: Reemax / 라이선스: CC0 / 원본: https://opengameart.org/content/voiceover-pack-fighter-40-taunts
+- 듣기 샘플: [voiceover-pack-fighter-40-taunts-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//voiceover-pack-fighter-40-taunts-sample.ogg)
+
+### Fireplace Sound loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//fireplace-sound-loop.zip) (9.4MB, wav 1개)
+- 제작: StarNinjas / 라이선스: CC0 / 원본: https://opengameart.org/content/fireplace-sound-loop
+- 듣기 샘플: [fireplace-sound-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//fireplace-sound-loop-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
