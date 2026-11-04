@@ -1209,6 +1209,84 @@
 - 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/space-laser
 - 듣기 샘플: [space-laser-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//space-laser-sample.ogg)
 
+### Boss Battle #2 [8-bit Re-upload]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-8-bit-re-upload.zip) (69.0MB, wav 2개)
+- 제작: Bluedot Games / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-2-8-bit-re-upload
+- 듣기 샘플: [boss-battle-2-8-bit-re-upload-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-2-8-bit-re-upload-sample.ogg)
+
+### Calm Relax 1 (Synthwave 421k)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//calm-relax-1-synthwave-421k.zip) (18.3MB, mp3 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/calm-relax-1-synthwave-421k
+- 듣기 샘플: [calm-relax-1-synthwave-421k-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//calm-relax-1-synthwave-421k-sample.ogg)
+
+### Aquaria
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//aquaria.zip) (7.5MB, wav 1개)
+- 제작: Raj krishan Ghosh / 라이선스: CC0 / 원본: https://opengameart.org/content/aquaria
+- 듣기 샘플: [aquaria-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//aquaria-sample.ogg)
+
+### Short Theme [Rock/Metal]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//short-theme-rockmetal.zip) (16.5MB, wav 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/short-theme-rockmetal
+- 듣기 샘플: [short-theme-rockmetal-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//short-theme-rockmetal-sample.ogg)
+
+### Boss Battle #5 [8-bit]
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-5-8-bit.zip) (9.1MB, wav 2개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/boss-battle-5-8-bit
+- 듣기 샘플: [boss-battle-5-8-bit-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//boss-battle-5-8-bit-sample.ogg)
+
+### Hyper Ultra-Racing
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//hyper-ultra-racing.zip) (13.8MB, wav 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/hyper-ultra-racing
+- 듣기 샘플: [hyper-ultra-racing-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//hyper-ultra-racing-sample.ogg)
+
+### Wintery loop
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//wintery-loop.zip) (7.4MB, wav 1개)
+- 제작: tw / 라이선스: CC0 / 원본: https://opengameart.org/content/wintery-loop
+- 듣기 샘플: [wintery-loop-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//wintery-loop-sample.ogg)
+
+### Determination
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//determination.zip) (5.2MB, mp3 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/determination
+- 듣기 샘플: [determination-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//determination-sample.ogg)
+
+### 9 wet snow steps
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//9-wet-snow-steps.zip) (1.1MB, flac 9개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/9-wet-snow-steps
+- 듣기 샘플: [9-wet-snow-steps-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//9-wet-snow-steps-sample.ogg)
+
+### 100 CC0 metal and wood SFX
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//100-cc0-metal-and-wood-sfx.zip) (2.0MB, ogg 100개)
+- 제작: Barina / 라이선스: CC0 / 원본: https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+
+### Warp Engine Engage Sound
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//warp-engine-engage-sound.zip) (3.9MB, wav 2개)
+- 제작: greyK / 라이선스: CC0 / 원본: https://opengameart.org/content/warp-engine-engage-sound
+- 듣기 샘플: [warp-engine-engage-sound-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//warp-engine-engage-sound-sample.ogg)
+
+### Reversing Time / Stuck in Time
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//reversing-time-stuck-in-time.zip) (4.3MB, ogg 1개 · wav 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/reversing-time-stuck-in-time
+- 듣기 샘플: [reversing-time-stuck-in-time-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//reversing-time-stuck-in-time-sample.ogg)
+
+### Short alarm
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//short-alarm.zip) (25KB, ogg 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/short-alarm
+- 듣기 샘플: [short-alarm-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//short-alarm-sample.ogg)
+
+### "I see you" Voice
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//i-see-you-voice.zip) (114KB, mp3 1개)
+- 제작: fluffrabbit / 라이선스: CC0 / 원본: https://opengameart.org/content/i-see-you-voice
+- 듣기 샘플: [i-see-you-voice-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//i-see-you-voice-sample.ogg)
+
+### Sound effects Mini Pack1.5
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//sound-effects-mini-pack15.zip) (5.6MB, ogg 55개 · wav 55개 · flac 55개 · mp3 55개 · png 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/sound-effects-mini-pack15
+
+### Bird chirping sounds
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download//bird-chirping-sounds.zip) (341KB, mp3 1개 · wav 1개)
+- 제작: uzairali001 / 라이선스: CC0 / 원본: https://opengameart.org/content/bird-chirping-sounds
+- 듣기 샘플: [bird-chirping-sounds-sample.ogg](https://github.com/sigco3111/assets-audio/releases/download//bird-chirping-sounds-sample.ogg)
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
