@@ -1,3 +1,5 @@
+> A8~A10 신규 팩 8개 추가 (현재 총 403팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+
 # assets-audio
 
 효과음과 배경음악. OGG 형식 CC0 팩.
