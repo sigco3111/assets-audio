@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/punch-slap-n-kick
+Title: Punch, slap, n' kick
+Author: congusbongus (OpenGameArt.org submitter)
+License(s) listed on the page: CC-BY 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2014-10-05
+Collected: 2026-11-08
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution required.
+The page gives no attribution text; CREDITS.txt uses the collector's standard line.
+Page note: OGA 페이지 설명: "16 sounds of punches, slaps and kicks. Adapted from freesound.org CGEffex 98341" / 귀속 안내: 위 freesound 페이지 참조. 페이지 본문은 16종이라 하나 zip에는 OGG 18개가 들어 있음
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
