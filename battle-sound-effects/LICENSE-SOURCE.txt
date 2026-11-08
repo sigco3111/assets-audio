@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/battle-sound-effects
+Title: Battle Sound Effects
+Author: Ogrebane (OpenGameArt.org submitter)
+License(s) listed on the page: CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2010-05-20
+Collected: 2026-11-08
+
+Chosen license: CC0 (the page lists several licenses: CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / CC0; CC0 is explicitly offered for this same asset and was selected). No attribution required.
+Page note: OGA 페이지 설명: "Three swishes and a bow, created for the FOSS RPG Summoning Wars"(-artisticdude 서명, 제출자는 Ogrebane)
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
