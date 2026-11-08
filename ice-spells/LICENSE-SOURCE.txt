@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/ice-spells
+Title: Ice spells
+Author: bart (OpenGameArt.org submitter)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2009-09-17
+Collected: 2026-11-08
+
+Chosen license: CC0. No attribution required.
+Page note: OGA 페이지 설명: pdsounds의 Stephan 사운드를 편집한 파생 작업이며 페이지 라이선스는 CC0 단독.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
