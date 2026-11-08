@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/boom-pack-1
+Title: Boom Pack 1
+Author: dklon (OpenGameArt.org Author field; submitted by paul5473)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2013-05-13
+Collected: 2026-11-08
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page's Attribution Instructions ask to credit the author as dklon (see CREDITS.txt).
+Page note: OGA 페이지 설명: "A collection of various boom-y explosion sounds of different types. 9 sounds included." / 귀속 안내(Attribution Instructions): "If you do use this, all I ask is that you credit me as dklon somewhere."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
