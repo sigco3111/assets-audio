@@ -11,4 +11,4 @@
 - 태그: sfx,combat,melee,punch,impact,hit,slash,knife,ranged,explosion,destruction,magic,spell,heal,wav
 - 미리보기/샘플: preview.png (OGA 표지), sample.wav (impact_punch_heavy_000)
 - 라이선스 파일: LICENSE-SOURCE.txt (zip 안 원본 LICENSES.txt 포함)
-- 비고: 폴더 총 37.12MB; 원본 zip(38.3MB)이 25MB 제한을 넘어 폴더 단위로 두 zip으로 분할(WAV 파일·LICENSES.txt 내용 변경 없음, 150개 전부 수록); 분할 시 zip을 새로 만들었으므로 원본 zip과 바이트는 다름
+- 비고: 폴더 총 37.12MB; 원본 zip(36.5MB)이 25MB 제한을 넘어 폴더 단위로 두 zip으로 분할(WAV 파일·LICENSES.txt 내용 변경 없음, 150개 전부 수록); 분할 시 zip을 새로 만들었으므로 원본 zip과 바이트는 다름
