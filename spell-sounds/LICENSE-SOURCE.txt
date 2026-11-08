@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/spell-sounds
+Title: Spell sounds
+Author: Augmentality (Brandon Morris) (OpenGameArt.org Author field)
+License(s) listed on the page: OGA-BY 3.0 / CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2010-09-17
+Collected: 2026-11-08
+
+Chosen license: CC0 (the page also offers OGA-BY 3.0, which is not accepted alone; CC0 is explicitly offered for this same asset and was selected). No attribution required.
+Page note: OGA 페이지 설명: "Sorry the files arent just one sound. Its the same sound done more than a couple times at different durations so you can choose how long you want the spell sound or how short."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
