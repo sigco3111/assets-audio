@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/150-combat-sound-effects
+Title: 150 Combat Sound Effects
+Author: untamedpixels (OpenGameArt.org submitter)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-10-27
+Collected: 2026-11-08
+
+Chosen license: CC0. No attribution required.
+The pack's own LICENSES.txt (included in both zips) states that all 150 WAV files are CC0 1.0 Universal and lists the source packs by ID (s01-s09): CoMiGo's Bleeps and Bloops, Kenney Impact Sounds / RPG Audio / Sci-fi Sounds, Kronbits 200 Free SFX, lentikula Basic Spell Impacts / Druid Spell Impacts / Healing Spell Impacts / Sci-Fi Weapon Shots (all CC0 1.0 Universal).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
