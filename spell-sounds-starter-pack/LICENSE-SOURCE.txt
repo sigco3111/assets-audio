@@ -1,0 +1,10 @@
+Source: https://opengameart.org/content/spell-sounds-starter-pack
+Title: Spell Sounds Starter Pack
+Author: p0ss (OpenGameArt.org submitter)
+License(s) listed on the page: CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Page date: 2011-03-03
+Collected: 2026-11-08
+
+Chosen license: GPL 3.0 (the page also offers GPL 2.0 and CC-BY-SA 3.0; CC-BY-SA alone is not accepted, so GPL 3.0 was selected). Copyleft applies to redistribution and derivative works. The page gives no attribution text.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.

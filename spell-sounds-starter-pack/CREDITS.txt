@@ -1,0 +1,8 @@
+Credits for: Spell Sounds Starter Pack
+Author: p0ss
+Source: https://opengameart.org/content/spell-sounds-starter-pack
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html), full text in LICENSE-GPL-3.0.txt
+Copyleft: redistributions and derivative works must remain under GPL (keep license notice, provide source).
+
+Credit text (the page gives none, so this is the collector's standard line):
+p0ss — "Spell Sounds Starter Pack" (https://opengameart.org/content/spell-sounds-starter-pack), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
