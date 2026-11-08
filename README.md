@@ -1,4 +1,4 @@
-> A8~A13 신규 팩 14개 추가 시점에는 총 409팩. 현재 총 431팩 (catalog.csv 기준 assets-audio 저장소 팩 수; A29: 효과음 4팩 추가 — 8 Magic Attacks, 3 Heal Spells, Boom Pack 1, Spell sounds). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+> A8~A13 신규 팩 14개 추가 시점에는 총 409팩. 현재 총 433팩 (catalog.csv 기준 assets-audio 저장소 팩 수; A29: 효과음 4팩 추가 — 8 Magic Attacks, 3 Heal Spells, Boom Pack 1, Spell sounds; A30: 효과음 2팩 추가 — Electricity Game Sound Pack, Metal and Wood Impact Sound Effects). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
 
 # assets-audio
 
