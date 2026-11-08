@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/electricity-game-sound-pack
+Title: Electricity Game Sound Pack
+Author: faxcorp (OpenGameArt.org Author field)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2023-04-01
+Collected: 2026-11-08
+
+Chosen license: CC0 (sole license listed on the page). No attribution required (public domain dedication).
+Page note: OGA 페이지 설명: "Collection of sounds for an electricity-themed game. Some sounds would fit universally. Loops and one-shots."
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
