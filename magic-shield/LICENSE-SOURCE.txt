@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/magic-shield
+Title: Magic Shield
+Author: spookymodem (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2014-09-25
+Collected: 2026-11-08
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page gives no attribution text; the collector used the standard CC-BY credit line (see CREDITS.txt).
+Page note: OGA 페이지 설명: "A pulsing defensive shield."
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
