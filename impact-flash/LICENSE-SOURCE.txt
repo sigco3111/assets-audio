@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/impact-flash
+Title: Impact Flash
+Author: darkmg (OpenGameArt.org Author field); Collaborators field: vinicius
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2025-11-09
+Collected: 2026-11-10
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution required. The page gives no attribution text (its Copyright/Attribution Notice field only repeats the title "Impact Flash"); the collector used the standard CC-BY credit line (see CREDITS.txt).
+Page note: the page has no description text; it lists one attachment, 15_impact_flesh_02.mp3 (OGA file name 15_impact_flesh_02_0.mp3).
+AI-generated: not stated on the source page.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
