@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/explosions-4
+Title: Explosions
+Author: EZduzziteh (OpenGameArt.org Author field)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2020-07-11
+Collected: 2026-11-09
+
+Chosen license: CC0 (sole license listed on the page). No attribution required (public domain dedication).
+Page note: OGA 페이지 설명: "explosions for my entry into GMTK 2020 jam, belt skipper https://ezduzziteh.itch.io/belt-skipper"
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
