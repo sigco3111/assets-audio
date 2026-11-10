@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/enchanted-festival
+Title: Enchanted Festival
+Author: Matthew Pablo (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2014-01-29
+Collected: 2026-11-10
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution required. The page gives no attribution text: its "Attribution Instructions" field only says to read http://www.matthewpablo.com/services, and that page only says to follow the credit requirements of the licensing agreement. The collector used the standard CC-BY credit line (see CREDITS.txt).
+Page note: "This exciting, fun and playful track features borderland bag pipes, penny whistle flutes, lutes, and fiddle players ... I've also included a looped version."
+AI-generated: no (page dated 2014).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
