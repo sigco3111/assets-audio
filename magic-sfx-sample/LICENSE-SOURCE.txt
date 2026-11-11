@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/magic-sfx-sample
+Title: Magic SFX Sample
+Author: ViRiX (David Mckee, "ViRiX Dreamcore"; OpenGameArt.org Author field: ViRiX)
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2015-09-04
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required.
+Page Copyright/Attribution Notice: "If you use the effects, it would be great to give me a credit. "Some of the sounds in this project were created by ViRiX Dreamcore (David Mckee) www.soundcloud.com/virix" Thanks"
+The page says this is a free sample of five of the 30+ sounds of a larger pack sold elsewhere (Unity Asset Store); only the free sample attached to the OpenGameArt page is included here, nothing purchased.
+The zip is the page's attachment "Magic SFX Preview Pack.zip" kept byte-identical (only the file name was changed to magic-sfx-sample.zip). It contains five WAV files and no license file.
+AI-generated: no (the page does not mention AI; published 2015).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
