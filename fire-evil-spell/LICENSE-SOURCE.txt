@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/fire-evil-spell
+Title: Fire & Evil Spell
+Author: artisticdude (OpenGameArt.org Author field; the page also shows "Submitted by qubodup")
+License(s) listed on the page: CC-BY 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2010-06-24
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0 (the only license listed on the page). Attribution is required (see CREDITS.txt).
+Page Copyright/Attribution Notice: (none on the page)
+Page file: spells.7z (247.7 Kb) containing spells/Fire.aif and spells/Spell1.aif; the collector unpacked it and re-packed the two files unchanged into a deflate zip.
+AI-generated: no (the page does not mention AI; published 2010).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
