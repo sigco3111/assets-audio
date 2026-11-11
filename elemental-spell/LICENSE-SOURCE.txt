@@ -1,0 +1,16 @@
+Source: https://opengameart.org/content/elemental-spell
+Title: Elemental Spell
+Author: qubodup (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0
+OGA-BY 3.0
+OGA-BY 4.0
+CC-BY 4.0
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2012-11-11
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). The page lists CC-BY 3.0, OGA-BY 3.0, OGA-BY 4.0, CC-BY 4.0; the collector chose CC-BY 4.0 (an allowed license).
+Page Copyright/Attribution Notice: Attribution Instructions: qubodup
+Page files: qubodup-ccbysa3-elementalSpell-opengameart.7z (2.9 Mb); the collector extracted it and re-packed the original files unmodified (deflate zip, same folder layout, includes the author's original license.txt = CC-BY-SA 3.0 text). Per the page's 2025-04-14 update the CC-BY-SA text in the archive may be ignored and CC-BY/OGA-BY used instead; the page also says "Optional: also give credit to Department64".
+AI-generated: no (the page does not mention AI; published 2012).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
