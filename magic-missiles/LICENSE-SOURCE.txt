@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/magic-missiles
+Title: Magic Missiles
+Author: spookymodem (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2014-09-25
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: (페이지에 Copyright/Attribution Notice 없음)
+Page files: Magic Missiles.wav (515.1 Kb); the collector put it unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2014).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
