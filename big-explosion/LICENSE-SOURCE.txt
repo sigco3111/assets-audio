@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/big-explosion
+Title: Big Explosion
+Author: Blender Foundation (OpenGameArt.org Author field; submitted to OpenGameArt by Lamoot)
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2010-11-17
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page gives no attribution text, so the standard CC-BY credit line is used (see CREDITS.txt).
+Page description: "Death flash sound from Yo Frankie! game."
+The page lists one file, DeathFlash.flac; the collector packed it unchanged into the zip (stored, byte-identical to the download). The file contains no license file of its own.
+AI-generated: no (the page does not mention AI; published 2010).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
