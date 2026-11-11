@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/fantasy-magic-spell
+Title: Fantasy Magic Spell
+Author: Almitory (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2022-04-13
+Collected: 2026-11-11
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: "bit.ly/contactclair"
+Page files: fantasy_magic_button_1.mp3; the collector put it unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2022).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
