@@ -1,0 +1,10 @@
+Credits for: Jingling heal
+Author: Zoltan Mihalyi
+Source: https://opengameart.org/content/jingling-heal
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html), full text in LICENSE-GPL-3.0.txt
+Copyleft: redistributions and derivative works must remain under GPL (keep license notice, provide source).
+Credit text specified on the page:
+"This work is based on Spell Sounds Starter Pack by p0ss licensed under CC-BY-SA 3.0, GPL 3.0, GPL 2.0 https://opengameart.org/content/spell-sounds-starter-pack"
+
+Credit line:
+Zoltan Mihalyi — "Jingling heal" (https://opengameart.org/content/jingling-heal), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). Based on "Spell Sounds Starter Pack" by p0ss (https://opengameart.org/content/spell-sounds-starter-pack)
