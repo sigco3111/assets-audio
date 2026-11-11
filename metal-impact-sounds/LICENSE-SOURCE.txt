@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/metal-impact-sounds
+Title: Metal Impact Sounds
+Author: BMacZero / Brian MacIntosh (OpenGameArt.org Author field: BMacZero)
+License(s) listed on the page: CC0 only (https://creativecommons.org/publicdomain/zero/1.0/)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2020-10-04
+Collected: 2026-11-11
+
+Chosen license: CC0 (sole license listed on the page). Attribution is not required.
+Page Copyright/Attribution Notice: "Optionally credit Brian MacIntosh."
+The page lists 7 WAV files (bing1, bong1, clink1, clink2, clink3, thud2, thud3; mono 44.1kHz 16bit); the collector packed them unchanged into an uncompressed zip (byte-identical to the downloads; the server added a _0 suffix to clink1, removed in the zip). The files contain no license file of their own.
+AI-generated: no (the page does not mention AI; published 2020).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
