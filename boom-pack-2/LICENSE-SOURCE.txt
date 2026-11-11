@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/boom-pack-2
+Title: Boom Pack 2
+Author: dklon (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2020-12-13
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt).
+Page Copyright/Attribution Notice: If you do use this, all I ask is that you credit me as dklon somewhere.
+Page files: explosions.zip (342.4 Kb); the collector kept it byte-identical and only renamed it boom-pack-2.zip
+AI-generated: no (the page does not mention AI; published 2020).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
