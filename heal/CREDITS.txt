@@ -1,0 +1,10 @@
+Credits for: Heal
+Author: Zoltan Mihalyi
+Source: https://opengameart.org/content/heal
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html), full text in LICENSE-GPL-3.0.txt
+Copyleft: redistributions and derivative works must remain under GPL (keep license notice, provide source).
+Credit text specified on the page:
+"Based on "Spell Sounds Starter Pack". https://opengameart.org/content/spell-sounds-starter-pack"
+
+Credit line:
+Zoltan Mihalyi — "Heal" (https://opengameart.org/content/heal), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). Based on "Spell Sounds Starter Pack" (https://opengameart.org/content/spell-sounds-starter-pack)

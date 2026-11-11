@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/heal
+Title: Heal
+Author: Zoltan Mihalyi (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Page date: 2020-10-09
+Collected: 2026-11-11
+
+Chosen license: GPL 3.0 (the page also offers CC-BY-SA 3.0, GPL 2.0; CC-BY-SA alone is not accepted, so GPL 3.0 was selected). Copyleft applies to redistribution and derivative works.
+Page Copyright/Attribution Notice / attribution text: "Based on "Spell Sounds Starter Pack". https://opengameart.org/content/spell-sounds-starter-pack" (see CREDITS.txt)
+The page offers one file, heal.wav. The collector packed it unchanged into an uncompressed zip (byte-compared); sample.wav is a copy. A comment on the page says the preview player once pointed to a different file; the author fixed it, and the downloaded heal.wav was used. The page notes it is based on the already catalogued "Spell Sounds Starter Pack" (p0ss), a different row.
+AI-generated: no (the page does not mention AI; published 2020).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
