@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/short-impact
+Title: Short impact.
+Author: Soundsnap (OpenGameArt.org Author field)
+License(s) listed on the page: GPL 3.0 (single)
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
+Page date: 2021-08-17
+Collected: 2026-11-12
+
+Chosen license: GPL 3.0 (the only license listed on the page); full text in LICENSE-GPL-3.0.txt. Copyleft applies to redistribution and derivative works. Page Copyright/Attribution Notice: (none on the page).
+Page files: 424911-impactshort78.wav (287.7 Kb); the collector kept the file unmodified and packed it into an uncompressed zip.
+Pack zip SHA-256: 811d1804c79c5a05744aabf28113d13f74c5684b0f13e60a153dffa02b92176a
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.

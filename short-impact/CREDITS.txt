@@ -1,0 +1,8 @@
+Credits for: Short impact.
+Author: Soundsnap
+Source: https://opengameart.org/content/short-impact
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Copyleft: redistributions and derivative works must remain under GPL (keep license notice, provide source).
+
+The page gives no attribution text; the line below is the collector's standard credit line naming the author:
+Soundsnap — "Short impact." (https://opengameart.org/content/short-impact), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
