@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/spell-4-fire
+Title: Spell 4 (fire)
+Author: Bart K. (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 병기
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2009-05-11
+Collected: 2026-11-12
+
+Chosen license: CC-BY 3.0. Attribution to the author is required (see CREDITS.txt). 
+Page Copyright/Attribution Notice: (none on the page)
+Page files: foom_0.wav (304.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: a8f27b640b9d626a689e2c96ff0882c9dc6cc8fd203a24e31bee01050a60e594
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
