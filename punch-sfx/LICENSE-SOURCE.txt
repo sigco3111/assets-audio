@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/punch-sfx
+Title: Punch SFX
+Author: DavidW (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 (multiple licenses offered)
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2024-07-02
+Collected: 2026-11-12
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). The page offers several licenses; the collector chose CC-BY 4.0 (allowed).
+Page Copyright/Attribution Notice: (none on the page)
+Page files: punch_1.wav ~ punch_9.wav (각 174.8~252.5 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: eb338e0b3a9275cab88ac91d3cb319e56fd03a3483f0c1c48739f2747fd0be98
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
