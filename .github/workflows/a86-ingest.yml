@@ -16,26 +16,30 @@ jobs:
           slug='ignisforge-free-sfx-sampler'
           name='IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects'
           page='https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects'
-          url='https://opengameart.org/sites/default/files/ignisforge-oga-sampler-cc0.zip'
           author='ignisforge'
           date='2026-08-19'
           os.makedirs(slug,exist_ok=True)
-          z='/tmp/ignisforge-oga-sampler-cc0.zip'
-          urllib.request.urlretrieve(url,z)
-          shutil.copy(z,os.path.join(slug,'ignisforge-oga-sampler-cc0.zip'))
+          req=urllib.request.Request(page,headers={'User-Agent':'Mozilla/5.0'})
+          html=urllib.request.urlopen(req).read().decode('utf-8','ignore')
+          href=re.search(r'href="([^"]+\.zip)"',html).group(1)
+          if href.startswith('/'):
+              href='https://opengameart.org'+href
+          fn=href.split('/')[-1]
+          z='/tmp/'+fn
+          urllib.request.urlretrieve(href,z)
+          shutil.copy(z,os.path.join(slug,fn))
           try:
-              html=urllib.request.urlopen(page).read().decode('utf-8','ignore')
-              mm=re.search(r'og:image" content="([^"]+)"',html)
-              urllib.request.urlretrieve(mm.group(1),'/tmp/pv')
+              im=re.search(r'og:image" content="([^"]+)"',html)
+              urllib.request.urlretrieve(im.group(1),'/tmp/pv')
               subprocess.run(['convert','/tmp/pv','-resize','800x800>','-quality','85',os.path.join(slug,'preview.jpg')],check=True)
           except Exception as e:
               print('preview skip',e)
           n=len(zipfile.ZipFile(z).namelist())
-          lines=['# '+name,'','- 출처 URL: '+page,'- 받은 파일: ignisforge-oga-sampler-cc0.zip (1.2MB)','- 라이선스: CC0','- 제작자: '+author,'- 공개일: '+date,'- 파일 수: '+str(n),'- 태그: sfx,retro,synth','- 표기 요구: 없음 (CC0)','- AI 생성 여부: 출처 페이지에 언급 없음','']
+          lines=['# '+name,'','- 출처 URL: '+page,'- 받은 파일: '+fn,'- 라이선스: CC0','- 제작자: '+author,'- 공개일: '+date,'- 파일 수: '+str(n),'- 태그: sfx,retro,synth','- 표기 요구: 없음 (CC0)','- AI 생성 여부: 출처 페이지에 언급 없음','']
           open(os.path.join(slug,'pack.md'),'w').write(chr(10).join(lines))
           ll=[name,'','출처 URL: '+page,'표기 라이선스: CC0','제작자: '+author,'공개일: '+date,'','이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.','원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.','']
           open(os.path.join(slug,'LICENSE-SOURCE.txt'),'w').write(chr(10).join(ll))
-          print(slug,n)
+          print(slug,fn,n)
           PY
       - name: 커밋
         run: |
