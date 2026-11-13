@@ -1,0 +1,55 @@
+name: ingest-pack
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ImageMagick 설치
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick fonts-dejavu-core
+      - name: 수집
+        run: |
+          set -euo pipefail
+          B=https://opengameart.org/sites/default/files
+          D=cozy-space-sfx
+          mkdir -p "$D"
+          curl -fsSL -o "$D/cozy-space-sfx-cc-by.zip" "$B/cozy-space-sfx-cc-by.zip"
+          curl -fsSL -o /tmp/pv "$B/audio_preview/cozy-space-sfx-preview.ogg.png"
+          convert /tmp/pv -resize "900x900>" "$D/preview.jpg"
+          SZ=$(du -h "$D/cozy-space-sfx-cc-by.zip" | cut -f1)
+          N=$(unzip -Z1 "$D/cozy-space-sfx-cc-by.zip" | grep -cv '/$')
+          cat > "$D/pack.md" <<EOF
+          # Cozy Space SFX: 46 Retro Sound Effects
+          - 출처 URL: https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects
+          - 받은 파일: cozy-space-sfx-cc-by.zip ($SZ)
+          - 라이선스: CC-BY 4.0
+          - 제작자: roberto mellado
+          - 공개일: 2026-09-12
+          - 파일 수: $N
+          - 태그: retro,chiptune,space,sfx,weapon,explosion,pickup
+          - 표기 요구: 있음 ("Cozy Space SFX by roberto mellado, CC-BY 4.0", CREDITS.txt 참조)
+          - AI 생성 여부: 출처 페이지에 언급 없음
+          EOF
+          cat > "$D/LICENSE-SOURCE.txt" <<EOF
+          Cozy Space SFX: 46 Retro Sound Effects
+          출처 URL: https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects
+          표기 라이선스: CC-BY 4.0
+          제작자: roberto mellado
+          공개일: 2026-09-12
+          이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.
+          원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.
+          EOF
+          cat > "$D/CREDITS.txt" <<EOF
+          Cozy Space SFX: 46 Retro Sound Effects
+          Sound effects by roberto mellado. Licensed CC-BY 4.0.
+          원본: https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects
+          라이선스: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+          EOF
+          git add -A
+          git -c user.name=sigco3111 -c user.email=sigco3111@users.noreply.github.com commit -m "에셋: Cozy Space SFX - 46 Retro Sound Effects 추가"
+          git push
