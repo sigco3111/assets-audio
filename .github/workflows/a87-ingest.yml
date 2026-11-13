@@ -1,0 +1,31 @@
+name: A87 audio
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 준비
+        run: |
+          python3 - <<'PY'
+          import os,urllib.request
+          d='gem-collect-sfx'
+          os.makedirs(d,exist_ok=True)
+          files=['gem-gather-stereo.wav','gem-gather-stereo-reverb.wav','gem-gather-mono-files.zip']
+          for f in files:
+              urllib.request.urlretrieve('https://opengameart.org/sites/default/files/'+f, os.path.join(d,f))
+              print(f, os.path.getsize(os.path.join(d,f)))
+          m='\n'.join(['# Gem collect SFX','','- 출처 URL: https://opengameart.org/content/gem-collect-sfx','- 받은 파일: '+', '.join(files)+'','- 라이선스: CC0','- 제작자: Bobjt','- 공개일: 2026-02-21','- 태그: sfx,collect,gem,coin,ui','- 표기 요구: 없음 (CC0)','- AI 생성 여부: 출처 페이지에 언급 없음',''])
+          open(os.path.join(d,'pack.md'),'w').write(m)
+          l='\n'.join(['Gem collect SFX','','출처 URL: https://opengameart.org/content/gem-collect-sfx','표기 라이선스: CC0','제작자: Bobjt','공개일: 2026-02-21','','이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.','원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.',''])
+          open(os.path.join(d,'LICENSE-SOURCE.txt'),'w').write(l)
+          PY
+      - name: 커밋
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@gmail.com"
+          git add gem-collect-sfx
+          git commit -m "에셋: Gem collect SFX 추가"
+          git push
