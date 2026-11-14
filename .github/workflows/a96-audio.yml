@@ -1,0 +1,22 @@
+name: a96-audio
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: deps
+        run: |
+          sudo apt-get update -qq >/dev/null 2>&1 || true
+          sudo apt-get install -y -qq imagemagick unzip >/dev/null 2>&1 || true
+      - name: run
+        env:
+          MODE: build
+          REPO: assets-audio
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/a96b.py -o /tmp/a96b.py
+          python3 /tmp/a96b.py
