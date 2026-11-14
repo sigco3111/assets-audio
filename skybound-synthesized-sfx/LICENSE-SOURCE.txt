@@ -1,0 +1,12 @@
+Skybound Six Synthesized SFX
+
+출처 URL: https://github.com/AgenticGameDevs/generated-assets
+원본 경로: assets/skybound/sound effects/
+표기 라이선스: CC BY 4.0
+라이선스 원문: https://creativecommons.org/licenses/by/4.0/
+제작자: Jonathan Maddison
+AI 생성: 예 (생성 도구: Godot / Web Audio synthesis)
+
+이 파일은 수집자가 출처의 라이선스 표기를 기록한 것입니다.
+원본 배포물에 라이선스 파일이 포함되어 있지 않기 때문에 이 파일이 그 역할을 합니다.
+재배포·사용 시 저작자 표기, 라이선스 링크, 변경 여부를 함께 밝혀 주세요.
