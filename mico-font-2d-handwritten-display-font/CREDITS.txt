@@ -1,5 +1,0 @@
-Technical Specifications
-
-Author: hyperwebster
-Source: https://opengameart.org/content/mico-font-2d-handwritten-display-font
-License: CC-BY (see OpenGameArt page)
