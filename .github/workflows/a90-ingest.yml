@@ -1,0 +1,34 @@
+name: a90-ingest
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: ingest
+        run: |
+          set -e
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          slug="pocket-bleeps"
+          fname="pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip"
+          name="Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)"
+          if [ -d "$slug" ]; then echo "exists"; exit 0; fi
+          mkdir -p "$slug"
+          curl -fsSL -A "Mozilla/5.0" -o "$slug/$fname" "https://opengameart.org/sites/default/files/$fname"
+          unzip -qo "$slug/$fname" -d "$slug" || true
+          cat > "$slug/LICENSE-SOURCE.txt" <<'TXT'
+          Source: https://opengameart.org/content/pocket-bleeps-–-31-retro-8-bit-sfx-free-sampler-cc-by
+          Author: Pocket Bleeps
+          License: CC-BY 4.0
+          Files unmodified. Downloaded 2026-11-14 (A90 round).
+          TXT
+          sed -i 's/^          //' "$slug/LICENSE-SOURCE.txt"
+          git add "$slug"
+          git commit -m "에셋: $name 추가"
+          git push origin HEAD:main
