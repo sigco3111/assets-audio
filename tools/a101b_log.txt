@@ -1,9 +1,0 @@
-names 2049
-DUP 8-Bit Sound Effect Pack (Vol. 001)
-DUP 100 CC0 SFX
-page 38107 cc0 True
-zips ["https://opengameart.org/sites/default/files/Game_SFX_by_OwlishMedia_0.zip"]
-$ git add -A 8-bit-sound-effect-pack README.md
-$ git -c user.name="sigco3111" -c user.email="sigco3111k@gmail.com" commit -m "에셋: 8-Bit Sound Effect Pack 추가"
-$ git push origin HEAD:main
-ADDED 8-Bit Sound Effect Pack Game_SFX_by_OwlishMedia_0.zip 3.9MB 75
