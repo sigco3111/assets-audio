@@ -1,0 +1,8 @@
+팩: 8-Bit Sound Effect Pack
+출처: https://opengameart.org/content/8-bit-sound-effect-pack
+라이선스: CC0 1.0 (출처 페이지 표기)
+저작자: OwlishMedia
+공개일: 2018-06-30
+다운로드: https://opengameart.org/sites/default/files/Game_SFX_by_OwlishMedia_0.zip
+확인: 2026-11-16 OpenGameArt 페이지 CC0 표기와 .zip 링크 확인
+표기: 없음
