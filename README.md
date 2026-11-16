@@ -1922,3 +1922,6 @@ OpenGameArt 수집 ansimuz 배경음악(칩튠·배틀·테마). 전부 OGA 페�
 - 다운로드: [up-and-right.zip](https://github.com/sigco3111/assets-audio/releases/download/v5.0/up-and-right.zip) 외 분할 1개
 - 실제 내용: 파일 4개 (.mp3 1개, .txt 1개, .ogg 1개, .wav 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할 [샘플 듣기](https://github.com/sigco3111/assets-audio/releases/download/v5.0/up-and-right-sample.ogg)
 - 제작: ansimuz / 라이선스: CC0 / 출처: https://opengameart.org/content/up-and-right
+### Some sounds 2
+- 파일: [릴리스 v6.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip) (40.1MB, 파일 262개: FM 합성 효과음 262종 레이저·주문·검격)
+- 제작: Ziph / 라이선스: CC0 / 원본: https://opengameart.org/content/some-sounds-2
