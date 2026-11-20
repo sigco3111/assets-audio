@@ -1925,3 +1925,7 @@ OpenGameArt 수집 ansimuz 배경음악(칩튠·배틀·테마). 전부 OGA 페�
 ### Some sounds 2
 - 파일: [릴리스 v6.0 첨부 다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip) (40.1MB, 파일 262개: FM 합성 효과음 262종 레이저·주문·검격)
 - 제작: Ziph / 라이선스: CC0 / 원본: https://opengameart.org/content/some-sounds-2
+
+### The Lost Storm Replacement SFX
+- 파일: `the-lost-storm-audio/the-lost-storm-audio.zip` (6.6MB, 저장소 내 포함) — OGG 219개(효과음) + 생성 스크립트 audio-synth.py
+- 제작: The Lost Storm Korean fan localization(자체 합성) / 라이선스: MIT(원작 음원 미포함, the-lost-storm-ko 저장소와 동일) / 원본: https://github.com/sigco3111/the-lost-storm-ko

@@ -1,0 +1,3 @@
+SFX: synthesized for The Lost Storm Korean fan localization (비공식 한국어 팬 번역)
+Generator: audio-synth.py (deterministic synthesis, included)
+The Lost Storm original game by Margin Systems: https://github.com/marginsystems/the-lost-storm

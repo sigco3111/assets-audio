@@ -1,0 +1,12 @@
+The Lost Storm Korean fan localization - replacement SFX pack
+
+Source: synthesized from scratch by the localization project with audio-synth.py
+(included in this pack). No original game audio is contained in this pack.
+The original game's sounds are licensed for use in the game only and are NOT
+included or redistributed here.
+
+License: MIT, same as the-lost-storm repository code
+(https://github.com/marginsystems/the-lost-storm/blob/main/LICENSE),
+as committed in https://github.com/sigco3111/the-lost-storm-ko
+
+Attribution (appreciated, not required): The Lost Storm Korean fan localization
