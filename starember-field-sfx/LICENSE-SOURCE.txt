@@ -1,0 +1,19 @@
+Starember Field Synthesized SFX - license provenance (written by the collector)
+
+Source repository: https://github.com/weit0529/gamedemo_by_Fable5.2
+(commit 7df12d1). Its LICENSE is MIT (Copyright (c) 2026 weit0529) and is
+included verbatim as LICENSE.txt.
+
+Scope note: the upstream LICENSE covers source code only and explicitly excludes
+the character design images (character/setting/), the avatars cropped from them
+(public/avatars/), and the AI company names/logos. NONE of those excluded
+materials are in this pack. This pack contains only:
+  - sfx/*.ogg: sounds synthesized from code recipes in src/core/audio.ts
+    (no audio files exist upstream; every sound is code-generated);
+  - engine/audio.ts: the original MIT-licensed synthesis engine;
+  - tools/render_sfx.py: the offline renderer written by the collector (MIT,
+    same terms as this pack).
+
+Upstream README states models, animations and sounds are all code-generated
+with no external assets. This pack therefore falls under the upstream MIT
+code license. Keep LICENSE.txt with the pack when redistributing.
