@@ -1,0 +1,5 @@
+cyber core
+제작자: oglsdl
+출처: https://opengameart.org/content/cyber-core
+라이선스: CC0
+표기: 필수: oglsdl (opengameart.org), CC0
