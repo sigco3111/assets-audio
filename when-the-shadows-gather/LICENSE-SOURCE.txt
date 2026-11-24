@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/when-the-shadows-gather
+License: CC0
+Checked: 2026-11-24 (GitHub Actions runner)
+Quote: : CC0 
