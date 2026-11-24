@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/car-theft-101-looping
+License: CC-BY 3.0
+Checked: 2026-11-24 (GitHub Actions runner)
+Quote: : CC-BY 3.0 
