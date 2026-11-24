@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/the-big-fight
+License: CC-BY 4.0
+Checked: 2026-11-24 (GitHub Actions runner)
+Quote: : CC-BY 4.0 
