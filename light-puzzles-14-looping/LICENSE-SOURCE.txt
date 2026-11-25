@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/light-puzzles-14-looping
+License: CC-BY 3.0
+Checked: 2026-11-25 (GitHub Actions runner)
+Quote: : CC-BY 3.0 
