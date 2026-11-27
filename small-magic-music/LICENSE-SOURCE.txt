@@ -1,0 +1,4 @@
+Source: https://patch.gg/games/blendi/small-magic (public/CREDITS.md, LICENSES/CC-BY-4.0.txt in the repo)
+Authors: Kevin MacLeod (incompetech.com)
+License: CC BY 4.0 per the game's credits. Attribution is required; see CREDITS.txt.
+Collected 2026-11-27. The CC BY 4.0 text is LICENSE-CC-BY-4.0.txt, copied from the repo.

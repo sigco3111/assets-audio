@@ -1,0 +1,4 @@
+Source: https://patch.gg/games/blendi/small-magic (public/CREDITS.md, LICENSE texts in the repo)
+Author: Kenney (Impact Sounds)
+License: CC0 1.0 per the game's credits. No attribution required.
+Collected 2026-11-27.

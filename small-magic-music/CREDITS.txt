@@ -1,0 +1,6 @@
+Music (Kevin MacLeod, incompetech.com), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Attribution required.
+- "Achaidh Cheide" by Kevin MacLeod (https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100340)
+- "Enchanted Valley" by Kevin MacLeod (https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200093)
+- "Evening Fall (Harp)" by Kevin MacLeod (https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236)
+Changed by Patch: converted from MP3 to Ogg Vorbis, credit added to the Ogg comments.
+Collected from the game Small Magic by @blendi (Patch): https://patch.gg/games/blendi/small-magic , repo https://git.patch.gg/blendi/small-magic.git ; credits listed in its public/CREDITS.md. Collected 2026-11-27.
