@@ -1929,3 +1929,8 @@ OpenGameArt 수집 ansimuz 배경음악(칩튠·배틀·테마). 전부 OGA 페�
 ### The Lost Storm Replacement SFX
 - 파일: `the-lost-storm-audio/the-lost-storm-audio.zip` (6.6MB, 저장소 내 포함) — OGG 219개(효과음) + 생성 스크립트 audio-synth.py
 - 제작: The Lost Storm Korean fan localization(자체 합성) / 라이선스: MIT(원작 음원 미포함, the-lost-storm-ko 저장소와 동일) / 원본: https://github.com/sigco3111/the-lost-storm-ko
+
+### Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)
+- 파일: `dont-look-away-sfx/dont-look-away-sfx.zip`
+- 제작: Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 / 라이선스: 알 수 없음 / 원본: https://patch.gg/games/blendi/dont-look-away
+- 비고: MP3 9개: chapel-ambience, breath-calm, breath-strained, candle-snuff, flashlight-draw, iron-gate, stone-scrape, stone-shift-a/b

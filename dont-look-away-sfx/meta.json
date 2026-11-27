@@ -1,0 +1,14 @@
+{
+ "name": "Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)",
+ "slug": "dont-look-away-sfx",
+ "zip": "dont-look-away-sfx.zip",
+ "file": "dont-look-away-sfx/dont-look-away-sfx.zip",
+ "author": "Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성",
+ "url": "https://patch.gg/games/blendi/dont-look-away",
+ "license": "알 수 없음",
+ "attr": "권장(미확인): Blendi Bylygbashi (patch.gg/games/blendi/dont-look-away). 재사용 허락 미확인, ElevenLabs 약관 확인 필요",
+ "date": "2026-11-27",
+ "tags": "sfx,horror,chapel,ambience,stone,breath,flashlight,gate,candle,ai-generated,elevenlabs,mp3",
+ "kind": "효과음",
+ "notes": "MP3 9개: chapel-ambience, breath-calm, breath-strained, candle-snuff, flashlight-draw, iron-gate, stone-scrape, stone-shift-a/b. ElevenLabs Sound Effects로 생성, 제작자가 저장소의 오픈 라이선스 대상이 아니며 재사용 전 ElevenLabs 약관을 확인하라고 명시. 명시적 이용 금지는 아님 → 소유자 정책으로 알 수 없음 수록. 재사용 허락 미확인, 권리자 요청 시 즉시 내림. 샘플은 chapel-ambience 앞 20초"
+}
