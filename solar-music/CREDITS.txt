@@ -1,0 +1,5 @@
+Music (Kevin MacLeod, incompetech.com), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Attribution required.
+- "Dreams Become Real" by Kevin MacLeod (https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027)
+- "Floating Cities" by Kevin MacLeod (https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600018)
+Changed by Patch: converted from MP3 to Ogg Vorbis, credit added to the Ogg comments.
+Collected from the game Solar by @blendi (Patch): https://patch.gg/games/blendi/solar , repo https://git.patch.gg/blendi/solar.git ; credits listed in its public/CREDITS.md. Collected 2026-11-27.
