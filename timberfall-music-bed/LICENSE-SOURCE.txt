@@ -1,0 +1,5 @@
+License source: Timberfall repository LICENSE-ART (https://git.patch.gg/blendi/timberfall.git):
+"The music bed, public/audio/music_1.*: generated for Patch with a text-to-music model. Copyright in
+generated output is unsettled and may not exist; to the extent Patch holds any rights in it, they are
+dedicated under CC0 1.0. No promise is made that it is free of other people's rights."
+Checked 2026-11-27.

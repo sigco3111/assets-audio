@@ -1,0 +1,6 @@
+music_1: generated for Patch with a text-to-music model, for the game Timberfall (and Brickfall).
+Dedicated under CC0 1.0 to the extent Patch holds rights; see LICENSE-SOURCE.txt for the exact wording.
+AI-generated: yes (text-to-music model, name not stated).
+
+Collected from Timberfall by Patch (@blendi): https://patch.gg/games/blendi/timberfall ,
+source https://git.patch.gg/blendi/timberfall.git (LICENSE-ART). Collected 2026-11-27.
